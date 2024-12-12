@@ -29457,6 +29457,192 @@
 			(uuid "130c38dd-153a-46b1-a095-5d43778ca91a")
 		)
 	)
+	(footprint "kbd:MJ-4PP-9"
+		(layer "F.Cu")
+		(uuid "a809e491-8408-47a5-bdc5-1f03e62a43e0")
+		(at 127.024063 35.172169)
+		(property "Reference" "J1"
+			(at -0.85 4.95 0)
+			(layer "F.Fab")
+			(uuid "ca11b2ac-0fd5-4633-abd8-780ff0b0e68e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MJ-4PP-9"
+			(at 0 14 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b30b673-7f72-4fa2-abd8-f99ca5c63d21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "kbd:MJ-4PP-9"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec3eb622-3bd9-4bb0-87b6-2da65d99510f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a706d5d-02d7-48c9-848c-e35f12e0cc87")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "603b4449-b263-4714-9487-3345a4aa1733")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(fp_line
+			(start -2.9 0.15)
+			(end 2.9 0.15)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ad3b8c54-f2b5-4823-80b4-2923e71b04f0")
+		)
+		(fp_line
+			(start -2.9 11.9)
+			(end -2.9 0.15)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8cd2186e-9046-4832-8f3d-1c36ce9692c9")
+		)
+		(fp_line
+			(start 2.9 0.15)
+			(end 2.9 11.9)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "77b427ba-dd84-4b76-b45c-9ac691643be9")
+		)
+		(fp_line
+			(start 2.9 11.9)
+			(end -2.9 11.9)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b401f89f-da08-41c7-8638-17b194187c68")
+		)
+		(fp_text user "TRRS"
+			(at -0.75 6.45 0)
+			(layer "F.SilkS")
+			(uuid "e5765a96-3d60-43a3-86ec-26de25f4c542")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 1.5)
+			(size 1.2 1.2)
+			(drill 1.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "a9dba0de-d1de-4c8c-87d9-e86853fde387")
+		)
+		(pad "" np_thru_hole circle
+			(at 0 8.5)
+			(size 1.2 1.2)
+			(drill 1.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "9c171a63-17f8-41d2-9d09-028a3a1ca49e")
+		)
+		(pad "A" thru_hole oval
+			(at -2.1 11.8)
+			(size 1.7 2.5)
+			(drill oval 1 1.5)
+			(layers "*.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(clearance 0.15)
+			(uuid "f60f3435-fd63-48a8-b6f4-087e973881d7")
+		)
+		(pad "B" thru_hole oval
+			(at 2.1 3.3)
+			(size 1.7 2.5)
+			(drill oval 1 1.5)
+			(layers "*.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "a0970ff1-099d-42e4-a5ac-810ffb46f48e")
+		)
+		(pad "C" thru_hole oval
+			(at 2.1 6.3)
+			(size 1.7 2.5)
+			(drill oval 1 1.5)
+			(layers "*.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(uuid "01208c80-30ce-4d25-9650-6c6128ec2a54")
+		)
+		(pad "D" thru_hole oval
+			(at 2.1 10.3)
+			(size 1.7 2.5)
+			(drill oval 1 1.5)
+			(layers "*.Cu" "B.Mask")
+			(remove_unused_layers no)
+			(clearance 0.15)
+			(uuid "153fc7d7-47c0-4ea0-9f8e-9ab48f36455e")
+		)
+		(model "${KIPRJMOD}/kbd/kicad-packages3D/kbd.3dshapes/PJ320A.step"
+			(offset
+				(xyz 0 -8.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/kbd-foostan/kicad-packages3D/kbd.3dshapes/PJ320A.step"
+			(offset
+				(xyz 0 -8.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "locallib:SandyLP_logo_LP40_w60"
 		(layer "F.Cu")
 		(uuid "aa60fa1f-9baa-4967-b92a-a0b75658d44d")
@@ -53039,7 +53225,7 @@
 	(footprint "isw-kbd:RP2040-Zero-SMD"
 		(layer "B.Cu")
 		(uuid "872a935c-604a-444d-899d-1547a43a28f8")
-		(at 81.115938 14.224044 180)
+		(at 107.974063 47.244044 180)
 		(property "Reference" "U?"
 			(at 0 16 0)
 			(layer "B.Fab")

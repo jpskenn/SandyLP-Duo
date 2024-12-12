@@ -5,4 +5,5 @@
   (lib (name "Housings_DFN_QFN")(type "KiCad")(uri "${KIPRJMOD}/Housings_DFN_QFN.pretty")(options "")(descr ""))
   (lib (name "Jones.local")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
   (lib (name "isw-kbd")(type "KiCad")(uri "${KIPRJMOD}/isw-kbd-lib/isw-kbd.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd-foostan/kicad-footprints/kbd.pretty")(options "")(descr ""))
 )
