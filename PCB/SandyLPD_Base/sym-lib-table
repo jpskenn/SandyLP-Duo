@@ -4,5 +4,4 @@
   (lib (name "ai03-locallib")(type "Legacy")(uri "${KIPRJMOD}/locallib.pretty/schema/ai03-locallib.lib")(options "")(descr "")(disabled))
   (lib (name "Sandy-rescue")(type "Legacy")(uri "${KIPRJMOD}/SandyLPD_Base-rescue.lib")(options "")(descr ""))
   (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/lib_LED/kbd.lib")(options "")(descr ""))
-  (lib (name "isw-mcu")(type "KiCad")(uri "${KIPRJMOD}/isw-kbd-lib/isw-mcu.kicad_sym")(options "")(descr ""))
 )
