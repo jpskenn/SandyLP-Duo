@@ -26002,7 +26002,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0535d40b-ba22-4ce9-b947-56c3518ad736")
-		(property "Reference" "SW5"
+		(property "Reference" "SW4"
 			(at 568.325 64.135 0)
 			(effects
 				(font
@@ -26072,7 +26072,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW5")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -26088,7 +26088,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "060ee1cc-d046-4421-924d-9ea8e4a7fd42")
-		(property "Reference" "SW2"
+		(property "Reference" "SW1"
 			(at 296.545 64.135 0)
 			(effects
 				(font
@@ -26158,7 +26158,7 @@
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW2")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -27326,7 +27326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://akizukidenshi.com/goodsaffix/KHS.pdf"
 			(at 435.61 154.305 0)
 			(effects
 				(font
@@ -28698,7 +28698,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22679e53-0c50-45be-9d71-2c82cfe0e37a")
-		(property "Reference" "#SW4"
+		(property "Reference" "SW5"
 			(at 568.325 97.79 0)
 			(effects
 				(font
@@ -28768,7 +28768,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#SW4")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -29996,7 +29996,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 367.03 29.845 90)
 			(effects
 				(font
@@ -32034,7 +32034,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4b570eba-86c7-4e60-9f01-0f0f38890291")
-		(property "Reference" "#SW3"
+		(property "Reference" "#SW5"
 			(at 568.325 94.615 0)
 			(effects
 				(font
@@ -32104,7 +32104,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#SW3")
+					(reference "#SW5")
 					(unit 1)
 				)
 			)
@@ -35498,7 +35498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://akizukidenshi.com/goodsaffix/KHS.pdf"
 			(at 709.295 154.305 0)
 			(effects
 				(font
@@ -36359,7 +36359,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75703cfc-d4ca-4b7a-b819-050665c4de3f")
-		(property "Reference" "#SW2"
+		(property "Reference" "SW2"
 			(at 296.545 97.79 0)
 			(effects
 				(font
@@ -36429,7 +36429,7 @@
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#SW2")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -44565,8 +44565,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d719b511-c914-4ddd-b3af-1ea2cd64383b")
-		(property "Reference" "SW4"
-			(at 568.325 60.96 0)
+		(property "Reference" "#SW4"
+			(at 568.325 61.5145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44574,7 +44574,7 @@
 			)
 		)
 		(property "Value" "BOOT"
-			(at 568.325 63.5 0)
+			(at 568.325 63.9388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44635,7 +44635,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW4")
+					(reference "#SW4")
 					(unit 1)
 				)
 			)
@@ -44887,7 +44887,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 638.81 29.845 90)
 			(effects
 				(font
@@ -48135,7 +48135,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa7e1efc-eb87-4769-a08e-fd0026dfa360")
-		(property "Reference" "#SW1"
+		(property "Reference" "#SW2"
 			(at 296.545 94.615 0)
 			(effects
 				(font
@@ -48205,7 +48205,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "#SW1")
+					(reference "#SW2")
 					(unit 1)
 				)
 			)
@@ -48221,8 +48221,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb05dfc9-e24f-46ee-a8a6-3713ab04ce9d")
-		(property "Reference" "SW1"
-			(at 296.545 60.96 0)
+		(property "Reference" "#SW1"
+			(at 296.545 61.5145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48230,7 +48230,7 @@
 			)
 		)
 		(property "Value" "BOOT"
-			(at 296.545 63.5 0)
+			(at 296.545 63.9388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48291,7 +48291,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "SW1")
+					(reference "#SW1")
 					(unit 1)
 				)
 			)
