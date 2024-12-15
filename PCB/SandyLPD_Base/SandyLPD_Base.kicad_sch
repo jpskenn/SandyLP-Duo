@@ -24082,15 +24082,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 45.72 311.15 0)
+		(at 63.5 311.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b084cd")
-		(property "Reference" "H_btm_6"
-			(at 48.26 309.9816 0)
+		(property "Reference" "H_btm_7"
+			(at 66.04 309.9816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24099,7 +24099,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 48.26 312.293 0)
+			(at 66.04 312.293 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24108,7 +24108,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 45.72 311.15 0)
+			(at 63.5 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24117,7 +24117,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 311.15 0)
+			(at 63.5 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24126,7 +24126,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 45.72 311.15 0)
+			(at 63.5 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24135,7 +24135,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 45.72 311.15 0)
+			(at 63.5 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24146,7 +24146,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_6")
+					(reference "H_btm_7")
 					(unit 1)
 				)
 			)
@@ -24161,7 +24161,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b084d3")
-		(property "Reference" "H_btm_8"
+		(property "Reference" "H_btm_10"
 			(at 95.885 309.9816 0)
 			(effects
 				(font
@@ -24218,7 +24218,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_8")
+					(reference "H_btm_10")
 					(unit 1)
 				)
 			)
@@ -24751,15 +24751,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 128.905 311.15 0)
+		(at 146.685 311.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f24724")
-		(property "Reference" "H_btm_13"
-			(at 131.445 309.9816 0)
+		(property "Reference" "H_btm_17"
+			(at 149.225 309.9816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24768,7 +24768,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 131.445 312.293 0)
+			(at 149.225 312.293 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24777,7 +24777,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 128.905 311.15 0)
+			(at 146.685 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24786,7 +24786,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.905 311.15 0)
+			(at 146.685 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24795,7 +24795,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.905 311.15 0)
+			(at 146.685 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24804,7 +24804,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 128.905 311.15 0)
+			(at 146.685 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24815,7 +24815,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_13")
+					(reference "H_btm_17")
 					(unit 1)
 				)
 			)
@@ -25681,15 +25681,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 111.125 323.85 0)
+		(at 128.905 323.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "007bd755-d74b-472d-8229-b96fcac79728")
-		(property "Reference" "H_btm_12"
-			(at 113.665 322.6816 0)
+		(property "Reference" "H_btm_16"
+			(at 131.445 322.6816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25698,7 +25698,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 113.665 324.993 0)
+			(at 131.445 324.993 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25707,7 +25707,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 111.125 323.85 0)
+			(at 128.905 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25716,7 +25716,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.125 323.85 0)
+			(at 128.905 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25725,7 +25725,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 111.125 323.85 0)
+			(at 128.905 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25734,7 +25734,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 111.125 323.85 0)
+			(at 128.905 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25745,7 +25745,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_12")
+					(reference "H_btm_16")
 					(unit 1)
 				)
 			)
@@ -27600,15 +27600,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 111.125 317.5 0)
+		(at 128.905 317.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "17bb3242-30df-41c9-9d26-420419ccdeff")
-		(property "Reference" "H_btm_11"
-			(at 113.665 316.3316 0)
+		(property "Reference" "H_btm_15"
+			(at 131.445 316.3316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27617,7 +27617,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 113.665 318.643 0)
+			(at 131.445 318.643 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27626,7 +27626,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 111.125 317.5 0)
+			(at 128.905 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27635,7 +27635,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.125 317.5 0)
+			(at 128.905 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27644,7 +27644,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 111.125 317.5 0)
+			(at 128.905 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27653,7 +27653,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 111.125 317.5 0)
+			(at 128.905 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27664,7 +27664,7 @@
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_11")
+					(reference "H_btm_15")
 					(unit 1)
 				)
 			)
@@ -31198,15 +31198,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 45.72 323.85 0)
+		(at 63.5 323.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "425da99e-8037-4ea9-94a2-f9354cb5e32f")
-		(property "Reference" "H_btm_7"
-			(at 48.26 322.6816 0)
+		(property "Reference" "H_btm_9"
+			(at 66.04 322.6816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31215,7 +31215,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 48.26 324.993 0)
+			(at 66.04 324.993 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31224,7 +31224,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 45.72 323.85 0)
+			(at 63.5 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31233,7 +31233,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 323.85 0)
+			(at 63.5 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31242,7 +31242,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 45.72 323.85 0)
+			(at 63.5 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31251,7 +31251,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 45.72 323.85 0)
+			(at 63.5 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31262,7 +31262,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_7")
+					(reference "H_btm_9")
 					(unit 1)
 				)
 			)
@@ -31577,6 +31577,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 45.72 311.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45f7bd4b-967e-4e7b-bacf-c2ae0d8d911a")
+		(property "Reference" "H_btm_6"
+			(at 48.26 309.9816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 48.26 312.293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 45.72 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 45.72 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_btm_6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 574.04 33.655 0)
 		(unit 1)
@@ -31817,15 +31889,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 128.905 323.85 0)
+		(at 146.685 323.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "488ed0aa-702f-4d28-bc67-d3f085bc3341")
-		(property "Reference" "H_btm_14"
-			(at 131.445 322.6816 0)
+		(property "Reference" "H_btm_18"
+			(at 149.225 322.6816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31834,7 +31906,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 131.445 324.993 0)
+			(at 149.225 324.993 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31843,7 +31915,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 128.905 323.85 0)
+			(at 146.685 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31852,7 +31924,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.905 323.85 0)
+			(at 146.685 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31861,7 +31933,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.905 323.85 0)
+			(at 146.685 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31870,7 +31942,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 128.905 323.85 0)
+			(at 146.685 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31881,7 +31953,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_14")
+					(reference "H_btm_18")
 					(unit 1)
 				)
 			)
@@ -33314,6 +33386,78 @@
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 111.125 311.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "55d41b9f-019b-4354-a316-868705e2df17")
+		(property "Reference" "H_btm_13"
+			(at 113.665 309.9816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 113.665 312.293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 111.125 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.125 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.125 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 111.125 311.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_btm_13")
 					(unit 1)
 				)
 			)
@@ -38851,6 +38995,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 63.5 317.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "91ec0630-d7bc-4fdd-8eff-c3c8c01d8482")
+		(property "Reference" "H_btm_8"
+			(at 66.04 316.3316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 66.04 318.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 63.5 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 63.5 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_btm_8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
 		(at 155.575 78.105 0)
 		(mirror y)
@@ -39921,6 +40137,78 @@
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 93.345 317.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3114a7b-d2ef-409b-a4b6-11aa98b8b413")
+		(property "Reference" "H_btm_11"
+			(at 95.885 316.3316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 95.885 318.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
+			(at 93.345 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.345 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.345 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 93.345 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_btm_11")
 					(unit 1)
 				)
 			)
@@ -45467,15 +45755,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 111.125 311.15 0)
+		(at 128.905 311.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "e052bab0-85fe-4a29-9a83-984d4a09f2f3")
-		(property "Reference" "H_btm_10"
-			(at 113.665 309.9816 0)
+		(property "Reference" "H_btm_14"
+			(at 131.445 309.9816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45484,7 +45772,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 113.665 312.293 0)
+			(at 131.445 312.293 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45493,7 +45781,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_2.2mm_M2_No_Cu"
-			(at 111.125 311.15 0)
+			(at 128.905 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45502,7 +45790,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.125 311.15 0)
+			(at 128.905 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45511,7 +45799,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 111.125 311.15 0)
+			(at 128.905 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45520,7 +45808,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 111.125 311.15 0)
+			(at 128.905 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45531,7 +45819,7 @@
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_10")
+					(reference "H_btm_14")
 					(unit 1)
 				)
 			)
@@ -46914,7 +47202,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ecb0a6c9-e36b-4ce2-bfcd-dbf2bb12bc34")
-		(property "Reference" "H_btm_9"
+		(property "Reference" "H_btm_12"
 			(at 95.885 322.6816 0)
 			(effects
 				(font
@@ -46971,7 +47259,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_btm_9")
+					(reference "H_btm_12")
 					(unit 1)
 				)
 			)
