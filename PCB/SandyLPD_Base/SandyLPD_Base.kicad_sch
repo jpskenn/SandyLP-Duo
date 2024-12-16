@@ -12737,7 +12737,7 @@
 	)
 	(global_label "L_col5"
 		(shape input)
-		(at 270.51 314.325 180)
+		(at 283.21 324.485 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12747,7 +12747,7 @@
 		)
 		(uuid "0280513c-6f0d-44f8-8077-cc4638173b7f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 262.071 314.325 0)
+			(at 274.771 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12757,7 +12757,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 270.51 316.1602 0)
+			(at 283.21 326.3202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13449,7 +13449,7 @@
 	)
 	(global_label "L_col4"
 		(shape input)
-		(at 247.015 324.485 180)
+		(at 244.475 314.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13459,7 +13459,7 @@
 		)
 		(uuid "20f9138c-b6be-4883-b026-cdb659c22779")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.576 324.485 0)
+			(at 236.036 314.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13469,7 +13469,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 247.015 326.3202 0)
+			(at 244.475 316.1602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14069,7 +14069,7 @@
 	)
 	(global_label "R_row0"
 		(shape input)
-		(at 380.365 314.325 180)
+		(at 399.415 314.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14079,7 +14079,7 @@
 		)
 		(uuid "3cfb6dd5-3321-4c54-942d-33d882a76c82")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 371.3212 314.325 0)
+			(at 390.3712 314.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14089,7 +14089,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 380.365 316.1602 0)
+			(at 399.415 316.1602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14413,7 +14413,7 @@
 	)
 	(global_label "R_col5"
 		(shape input)
-		(at 323.215 314.325 180)
+		(at 342.265 324.485 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14423,7 +14423,7 @@
 		)
 		(uuid "45bc760d-53a8-48a2-be0f-51791f3e126b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 314.5341 314.325 0)
+			(at 333.5841 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14433,7 +14433,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 323.215 316.1602 0)
+			(at 342.265 326.3202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14931,7 +14931,7 @@
 	)
 	(global_label "R_col4"
 		(shape input)
-		(at 346.075 324.485 180)
+		(at 377.825 314.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14941,7 +14941,7 @@
 		)
 		(uuid "5c524b24-8d6a-4be2-a90b-fa7f6371f496")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 337.3941 324.485 0)
+			(at 369.1441 314.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14951,7 +14951,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 346.075 326.3202 0)
+			(at 377.825 316.1602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16175,7 +16175,7 @@
 	)
 	(global_label "R_col1"
 		(shape input)
-		(at 403.225 314.325 180)
+		(at 422.275 314.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16185,7 +16185,7 @@
 		)
 		(uuid "8784388d-ece0-43e9-a2fe-c0578c2b6efe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 394.5441 314.325 0)
+			(at 413.5941 314.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16195,7 +16195,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 403.225 316.1602 0)
+			(at 422.275 316.1602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16207,7 +16207,7 @@
 	)
 	(global_label "L_row0"
 		(shape input)
-		(at 244.475 314.325 180)
+		(at 264.795 314.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16217,7 +16217,7 @@
 		)
 		(uuid "8788016b-7707-4e02-870b-2f50ffc5badc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.6731 314.325 0)
+			(at 255.9931 314.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16227,7 +16227,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 244.475 316.1602 0)
+			(at 264.795 316.1602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16497,7 +16497,7 @@
 	)
 	(global_label "R_row0"
 		(shape input)
-		(at 348.615 314.325 180)
+		(at 363.22 314.325 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16507,7 +16507,7 @@
 		)
 		(uuid "94e4dc1f-9f24-45b5-80b5-c6fb7e800b91")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 339.5712 314.325 0)
+			(at 354.1762 314.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16517,7 +16517,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 348.615 316.1602 0)
+			(at 363.22 316.1602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17091,7 +17091,7 @@
 	)
 	(global_label "R_row1"
 		(shape input)
-		(at 323.215 324.485 180)
+		(at 375.285 324.485 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17101,7 +17101,7 @@
 		)
 		(uuid "b1aaed68-cf12-469d-802b-75eb1356c742")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 314.1712 324.485 0)
+			(at 366.2412 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17111,7 +17111,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 323.215 326.3202 0)
+			(at 375.285 326.3202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17123,7 +17123,7 @@
 	)
 	(global_label "L_row2"
 		(shape input)
-		(at 254.635 334.645 180)
+		(at 278.13 334.645 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17133,7 +17133,7 @@
 		)
 		(uuid "b20869f8-e8e3-4624-8e00-77a50f9191e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.8331 334.645 0)
+			(at 269.3281 334.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17143,7 +17143,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 254.635 336.4802 0)
+			(at 278.13 336.4802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17611,7 +17611,7 @@
 	)
 	(global_label "R_col0"
 		(shape input)
-		(at 380.365 324.485 180)
+		(at 399.415 324.485 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17621,7 +17621,7 @@
 		)
 		(uuid "c7d99b61-b02c-4fe2-9d95-aaa42b63694b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 371.6841 324.485 0)
+			(at 390.7341 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17631,7 +17631,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 380.365 326.3202 0)
+			(at 399.415 326.3202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18679,7 +18679,7 @@
 	)
 	(global_label "R_row2"
 		(shape input)
-		(at 338.455 334.645 180)
+		(at 347.345 334.645 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18689,7 +18689,7 @@
 		)
 		(uuid "f950ad93-c224-4906-a518-91040a9f2c14")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 329.4112 334.645 0)
+			(at 338.3012 334.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18699,7 +18699,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 338.455 336.4802 0)
+			(at 347.345 336.4802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18733,7 +18733,7 @@
 	)
 	(global_label "L_row1"
 		(shape input)
-		(at 270.51 324.485 180)
+		(at 247.015 324.485 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18743,7 +18743,7 @@
 		)
 		(uuid "fcb90f1d-8f42-4872-9373-9283df332de6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 261.7081 324.485 0)
+			(at 238.2131 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18753,7 +18753,7 @@
 			)
 		)
 		(property "シート間のリファレンス" "${INTERSHEET_REFS}"
-			(at 270.51 326.3202 0)
+			(at 247.015 326.3202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26696,6 +26696,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 342.265 314.325 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c64e47e-c569-48d4-a99d-b36c9fd7ac22")
+		(property "Reference" "#PWR064"
+			(at 342.265 320.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND_R"
+			(at 342.265 318.4581 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 342.265 314.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 342.265 314.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 342.265 314.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b8c627a-ac0f-4786-8d2b-4c1d3f14f9f8")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Crystal_GND2")
 		(at 332.74 145.415 270)
 		(unit 1)
@@ -28474,15 +28540,15 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 338.455 332.105 0)
+		(at 264.795 311.785 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "1fe031a1-e0e1-4eb8-b6be-2e8de072aace")
-		(property "Reference" "H_mid_16"
-			(at 340.995 330.9366 0)
+		(uuid "1fc81e9e-ef90-4b42-89d4-cb103d50eb87")
+		(property "Reference" "H_mid_21"
+			(at 267.335 310.6166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28491,7 +28557,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 340.995 333.248 0)
+			(at 267.335 312.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28500,7 +28566,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 338.455 332.105 0)
+			(at 264.795 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28509,7 +28575,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 338.455 332.105 0)
+			(at 264.795 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28518,7 +28584,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 338.455 332.105 0)
+			(at 264.795 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28527,7 +28593,82 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 338.455 332.105 0)
+			(at 264.795 311.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3faeb07-3f16-4035-ba8c-fcf07ed11e18")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_mid_21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 347.345 332.105 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1fe031a1-e0e1-4eb8-b6be-2e8de072aace")
+		(property "Reference" "H_mid_16"
+			(at 349.885 330.9366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 349.885 333.248 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+			(at 347.345 332.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 347.345 332.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 347.345 332.105 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 347.345 332.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28549,7 +28690,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 323.215 311.785 0)
+		(at 342.265 311.785 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28557,7 +28698,7 @@
 		(dnp no)
 		(uuid "21f0be1d-b94c-456c-9610-b79b26fd5501")
 		(property "Reference" "H_mid_4"
-			(at 325.755 310.6166 0)
+			(at 344.805 310.6166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28566,7 +28707,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 325.755 312.928 0)
+			(at 344.805 312.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28575,7 +28716,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 323.215 311.785 0)
+			(at 342.265 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28584,7 +28725,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 323.215 311.785 0)
+			(at 342.265 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28593,7 +28734,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 323.215 311.785 0)
+			(at 342.265 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28602,7 +28743,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 323.215 311.785 0)
+			(at 342.265 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29235,7 +29376,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 403.225 311.785 0)
+		(at 422.275 311.785 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29243,7 +29384,7 @@
 		(dnp no)
 		(uuid "262d1cff-a99d-4b9d-8760-bab239fc6182")
 		(property "Reference" "H_mid_7"
-			(at 405.765 310.6166 0)
+			(at 424.815 310.6166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29252,7 +29393,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 405.765 312.928 0)
+			(at 424.815 312.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29261,7 +29402,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 403.225 311.785 0)
+			(at 422.275 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29270,7 +29411,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 403.225 311.785 0)
+			(at 422.275 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29279,7 +29420,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 403.225 311.785 0)
+			(at 422.275 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29288,7 +29429,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 403.225 311.785 0)
+			(at 422.275 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29377,7 +29518,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 403.225 321.945 0)
+		(at 422.275 321.945 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29385,7 +29526,7 @@
 		(dnp no)
 		(uuid "27726a00-bab5-4623-ad0a-f774cce06b24")
 		(property "Reference" "H_mid_14"
-			(at 405.765 320.7766 0)
+			(at 424.815 320.7766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29394,7 +29535,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 405.765 323.088 0)
+			(at 424.815 323.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29403,7 +29544,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 403.225 321.945 0)
+			(at 422.275 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29412,7 +29553,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 403.225 321.945 0)
+			(at 422.275 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29421,7 +29562,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 403.225 321.945 0)
+			(at 422.275 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29430,7 +29571,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 403.225 321.945 0)
+			(at 422.275 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35828,7 +35969,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 270.51 321.945 0)
+		(at 283.21 321.945 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35836,7 +35977,7 @@
 		(dnp no)
 		(uuid "6eb991dc-790f-46c1-83a7-864570e0030f")
 		(property "Reference" "H_mid_20"
-			(at 273.05 320.7766 0)
+			(at 285.75 320.7766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35845,7 +35986,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 273.05 323.088 0)
+			(at 285.75 323.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35854,7 +35995,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 270.51 321.945 0)
+			(at 283.21 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35863,7 +36004,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 270.51 321.945 0)
+			(at 283.21 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35872,7 +36013,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 321.945 0)
+			(at 283.21 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35881,7 +36022,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 270.51 321.945 0)
+			(at 283.21 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36103,7 +36244,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 380.365 311.785 0)
+		(at 399.415 311.785 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36111,7 +36252,7 @@
 		(dnp no)
 		(uuid "71961194-a5ba-4fe9-a0b1-836107abf69c")
 		(property "Reference" "H_mid_6"
-			(at 382.905 310.6166 0)
+			(at 401.955 310.6166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36120,7 +36261,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 382.905 312.928 0)
+			(at 401.955 312.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36129,7 +36270,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 380.365 311.785 0)
+			(at 399.415 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36138,7 +36279,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 380.365 311.785 0)
+			(at 399.415 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36147,7 +36288,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 380.365 311.785 0)
+			(at 399.415 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36156,7 +36297,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 380.365 311.785 0)
+			(at 399.415 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37648,7 +37789,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 333.375 342.265 0)
+		(at 342.265 342.265 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37656,7 +37797,7 @@
 		(dnp no)
 		(uuid "86f5933c-bad6-47c8-acbb-faaf715f9665")
 		(property "Reference" "H_mid_18"
-			(at 335.915 341.0966 0)
+			(at 344.805 341.0966 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37665,7 +37806,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 335.915 343.408 0)
+			(at 344.805 343.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37674,7 +37815,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 333.375 342.265 0)
+			(at 342.265 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37683,7 +37824,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 333.375 342.265 0)
+			(at 342.265 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37692,7 +37833,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 333.375 342.265 0)
+			(at 342.265 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37701,7 +37842,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 333.375 342.265 0)
+			(at 342.265 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38436,7 +38577,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 254.635 332.105 0)
+		(at 278.13 332.105 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38444,7 +38585,7 @@
 		(dnp no)
 		(uuid "8a98323f-a98f-4080-a100-256e2b015549")
 		(property "Reference" "H_mid_15"
-			(at 257.175 330.9366 0)
+			(at 280.67 330.9366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38453,7 +38594,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 257.175 333.248 0)
+			(at 280.67 333.248 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38462,7 +38603,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 254.635 332.105 0)
+			(at 278.13 332.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38471,7 +38612,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254.635 332.105 0)
+			(at 278.13 332.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38480,7 +38621,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 254.635 332.105 0)
+			(at 278.13 332.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38489,7 +38630,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 254.635 332.105 0)
+			(at 278.13 332.105 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40002,8 +40143,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 283.21 314.325 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a06285b2-d828-4202-8c41-b5d44245f59d")
+		(property "Reference" "#PWR063"
+			(at 283.21 320.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 283.21 318.4581 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 283.21 314.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 314.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 283.21 314.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "824a9767-3a00-4057-9304-bc8e067b1a2f")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 346.075 321.945 0)
+		(at 375.285 321.945 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40011,7 +40218,7 @@
 		(dnp no)
 		(uuid "a21c0f7b-5e4e-4e45-9a55-639ae8f55007")
 		(property "Reference" "H_mid_12"
-			(at 348.615 320.7766 0)
+			(at 377.825 320.7766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40020,7 +40227,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 348.615 323.088 0)
+			(at 377.825 323.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40029,7 +40236,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 346.075 321.945 0)
+			(at 375.285 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40038,7 +40245,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 346.075 321.945 0)
+			(at 375.285 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40047,7 +40254,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 346.075 321.945 0)
+			(at 375.285 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40056,7 +40263,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 346.075 321.945 0)
+			(at 375.285 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40078,7 +40285,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 403.225 324.485 0)
+		(at 422.275 324.485 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40087,7 +40294,7 @@
 		(fields_autoplaced yes)
 		(uuid "a242781c-06b9-4687-99fe-53b289756aa2")
 		(property "Reference" "#PWR060"
-			(at 403.225 330.835 0)
+			(at 422.275 330.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40096,7 +40303,7 @@
 			)
 		)
 		(property "Value" "GND_R"
-			(at 403.225 328.6181 0)
+			(at 422.275 328.6181 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40104,7 +40311,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 403.225 324.485 0)
+			(at 422.275 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40113,7 +40320,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 403.225 324.485 0)
+			(at 422.275 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40122,7 +40329,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 403.225 324.485 0)
+			(at 422.275 324.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41388,7 +41595,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 333.375 344.805 0)
+		(at 342.265 344.805 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41397,7 +41604,7 @@
 		(fields_autoplaced yes)
 		(uuid "b6c28409-77ca-4be4-905d-aa16042544af")
 		(property "Reference" "#PWR061"
-			(at 333.375 351.155 0)
+			(at 342.265 351.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41406,7 +41613,7 @@
 			)
 		)
 		(property "Value" "GND_R"
-			(at 333.375 348.9381 0)
+			(at 342.265 348.9381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41414,7 +41621,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 333.375 344.805 0)
+			(at 342.265 344.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41423,7 +41630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 333.375 344.805 0)
+			(at 342.265 344.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41432,7 +41639,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 333.375 344.805 0)
+			(at 342.265 344.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41964,6 +42171,81 @@
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 363.22 311.785 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd78e47f-f635-4ced-97d5-fb6db41ab744")
+		(property "Reference" "H_mid_22"
+			(at 365.76 310.6166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 365.76 312.928 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+			(at 363.22 311.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 363.22 311.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 363.22 311.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 363.22 311.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "379fc74f-a982-4512-b9ca-fbda6879cba6")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H_mid_22")
 					(unit 1)
 				)
 			)
@@ -42695,7 +42977,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 259.715 344.805 0)
+		(at 283.21 344.805 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42704,7 +42986,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4520c19-821d-45e7-8165-1e7b554bd0f9")
 		(property "Reference" "#PWR062"
-			(at 259.715 351.155 0)
+			(at 283.21 351.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42713,7 +42995,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 259.715 348.9381 0)
+			(at 283.21 348.9381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42721,7 +43003,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 259.715 344.805 0)
+			(at 283.21 344.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42730,7 +43012,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.715 344.805 0)
+			(at 283.21 344.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42739,7 +43021,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 259.715 344.805 0)
+			(at 283.21 344.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45083,7 +45365,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 380.365 321.945 0)
+		(at 399.415 321.945 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -45091,7 +45373,7 @@
 		(dnp no)
 		(uuid "d9e445c9-3c5b-4f63-b804-388618deea13")
 		(property "Reference" "H_mid_13"
-			(at 382.905 320.7766 0)
+			(at 401.955 320.7766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45100,7 +45382,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 382.905 323.088 0)
+			(at 401.955 323.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45109,7 +45391,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 380.365 321.945 0)
+			(at 399.415 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45118,7 +45400,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 380.365 321.945 0)
+			(at 399.415 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45127,7 +45409,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 380.365 321.945 0)
+			(at 399.415 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45136,7 +45418,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 380.365 321.945 0)
+			(at 399.415 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46153,7 +46435,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 259.715 342.265 0)
+		(at 283.21 342.265 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -46161,7 +46443,7 @@
 		(dnp no)
 		(uuid "e3342c26-b82e-4b51-8d80-e2672d1b61d2")
 		(property "Reference" "H_mid_17"
-			(at 262.255 341.0966 0)
+			(at 285.75 341.0966 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46170,7 +46452,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 262.255 343.408 0)
+			(at 285.75 343.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46179,7 +46461,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 259.715 342.265 0)
+			(at 283.21 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46188,7 +46470,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 259.715 342.265 0)
+			(at 283.21 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46197,7 +46479,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.715 342.265 0)
+			(at 283.21 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46206,7 +46488,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 259.715 342.265 0)
+			(at 283.21 342.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47035,7 +47317,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 323.215 321.945 0)
+		(at 342.265 321.945 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47043,7 +47325,7 @@
 		(dnp no)
 		(uuid "ec18aed7-adad-4151-92a7-2a6f57e05a20")
 		(property "Reference" "H_mid_11"
-			(at 325.755 320.7766 0)
+			(at 344.805 320.7766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47052,7 +47334,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 325.755 323.088 0)
+			(at 344.805 323.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47061,7 +47343,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 323.215 321.945 0)
+			(at 342.265 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47070,7 +47352,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 323.215 321.945 0)
+			(at 342.265 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47079,7 +47361,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 323.215 321.945 0)
+			(at 342.265 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47088,7 +47370,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 323.215 321.945 0)
+			(at 342.265 321.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47449,7 +47731,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 348.615 311.785 0)
+		(at 377.825 311.785 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47457,7 +47739,7 @@
 		(dnp no)
 		(uuid "f38e3478-ce53-461e-a91f-caed17b4e8a5")
 		(property "Reference" "H_mid_5"
-			(at 351.155 310.6166 0)
+			(at 380.365 310.6166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47466,7 +47748,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 351.155 312.928 0)
+			(at 380.365 312.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47475,7 +47757,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 348.615 311.785 0)
+			(at 377.825 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47484,7 +47766,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 348.615 311.785 0)
+			(at 377.825 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47493,7 +47775,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 348.615 311.785 0)
+			(at 377.825 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47502,7 +47784,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 348.615 311.785 0)
+			(at 377.825 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47987,7 +48269,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 270.51 311.785 0)
+		(at 283.21 311.785 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -47995,7 +48277,7 @@
 		(dnp no)
 		(uuid "fa48fd36-c798-4e66-8735-481ec5480d29")
 		(property "Reference" "H_mid_19"
-			(at 273.05 310.6166 0)
+			(at 285.75 310.6166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48004,7 +48286,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 273.05 312.928 0)
+			(at 285.75 312.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48013,7 +48295,7 @@
 			)
 		)
 		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
-			(at 270.51 311.785 0)
+			(at 283.21 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48022,7 +48304,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 270.51 311.785 0)
+			(at 283.21 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48031,7 +48313,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 311.785 0)
+			(at 283.21 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48040,7 +48322,7 @@
 			)
 		)
 		(property "LCSC-Reserve" ""
-			(at 270.51 311.785 0)
+			(at 283.21 311.785 0)
 			(effects
 				(font
 					(size 1.27 1.27)
