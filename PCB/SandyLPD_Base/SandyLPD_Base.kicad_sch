@@ -16733,7 +16733,7 @@
 	)
 	(global_label "L_VBUS_detection"
 		(shape input)
-		(at 393.7 147.955 0)
+		(at 393.7 170.815 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16743,7 +16743,7 @@
 		)
 		(uuid "9e4150b2-7ffe-47d6-a77b-f098569e4829")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 412.6619 147.955 0)
+			(at 412.6619 170.815 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16981,9 +16981,9 @@
 			)
 		)
 	)
-	(global_label "L_GPIO29"
+	(global_label "L_GPIO21"
 		(shape input)
-		(at 393.7 170.815 0)
+		(at 393.7 147.955 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16993,7 +16993,7 @@
 		)
 		(uuid "ac9c6b01-1076-4294-b932-51d66cb64aab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 404.921 170.815 0)
+			(at 404.921 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
