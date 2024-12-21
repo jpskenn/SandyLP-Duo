@@ -1033,6 +1033,13 @@
 		(uuid "a7100f17-4212-476f-ad92-33799893bafa")
 	)
 	(pad "" np_thru_hole oval
+		(at -41.67191 -39.290658)
+		(size 15.478138 11.90625)
+		(drill oval 15.478138 11.90625)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "63e21961-8b1e-45fe-bb0e-6d71a0e4e1a2")
+	)
+	(pad "" np_thru_hole oval
 		(at -39.885971 22.026581)
 		(size 15.478138 11.90625)
 		(drill oval 15.478138 11.90625)

@@ -1,4 +1,4 @@
-(footprint "SandyLP-Duo_outline_BottomB"
+(footprint "SandyLP-Duo_outline_BottomB_narrow_edge"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -193,6 +193,16 @@
 		)
 		(layer "Dwgs.User")
 		(uuid "a1319ec2-341a-48d2-adfb-51402b0ef713")
+	)
+	(fp_line
+		(start -129.182921 33.337528)
+		(end -129.182921 -66.674972)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8aa3ad2e-291a-42d8-b131-063c9a9bba40")
 	)
 	(fp_line
 		(start -121.94375 -50.70629)
@@ -575,8 +585,8 @@
 		(uuid "38250abb-84f9-4891-a167-d6245a086c3f")
 	)
 	(fp_line
-		(start -135.731364 26.123471)
-		(end -135.731364 -47.32504)
+		(start -129.182921 26.123471)
+		(end -129.182921 -47.32504)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -586,7 +596,7 @@
 	)
 	(fp_line
 		(start -30.360962 -52.08754)
-		(end -130.968864 -52.08754)
+		(end -124.420421 -52.08754)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -656,7 +666,7 @@
 	)
 	(fp_line
 		(start -9.525004 30.885971)
-		(end -130.968864 30.885971)
+		(end -124.420421 30.885971)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -685,9 +695,9 @@
 		(uuid "55858b10-26c3-4734-bfad-525919fbac43")
 	)
 	(fp_arc
-		(start -135.731364 -47.32504)
-		(mid -134.33646 -50.692636)
-		(end -130.968864 -52.08754)
+		(start -129.182921 -47.32504)
+		(mid -127.788017 -50.692636)
+		(end -124.420421 -52.08754)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -696,9 +706,9 @@
 		(uuid "c3702883-366c-4182-b1e8-6b80da686616")
 	)
 	(fp_arc
-		(start -130.968864 30.885971)
-		(mid -134.33646 29.491067)
-		(end -135.731364 26.123471)
+		(start -124.420421 30.885971)
+		(mid -127.788017 29.491067)
+		(end -129.182921 26.123471)
 		(stroke
 			(width 0.3)
 			(type default)
