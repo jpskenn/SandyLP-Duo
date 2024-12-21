@@ -491,125 +491,6 @@
 				)
 			)
 		)
-		(symbol "Connector:Conn_01x01_Pin"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x01_Pin"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x01, script generated"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x01_Pin_1_1"
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 0.8636 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector:Conn_01x10_Pin"
 			(pin_names
 				(offset 1.016) hide)
@@ -8784,10 +8665,6 @@
 		(uuid "58a95952-4adc-4368-b58a-1a2305ac600a")
 	)
 	(no_connect
-		(at 702.945 93.345)
-		(uuid "5a2a3c3e-778e-4761-af95-3dd4aa17e303")
-	)
-	(no_connect
 		(at 715.01 228.6)
 		(uuid "5cc439e0-1413-4cbf-827e-3202836fbefd")
 	)
@@ -8798,10 +8675,6 @@
 	(no_connect
 		(at 715.01 226.06)
 		(uuid "60fbe7fc-e9c4-43e8-9b32-804c555724ee")
-	)
-	(no_connect
-		(at 431.8 106.68)
-		(uuid "67ccab41-d365-4731-b4bb-bdd5b8376348")
 	)
 	(no_connect
 		(at 97.79 223.52)
@@ -8842,10 +8715,6 @@
 	(no_connect
 		(at 715.01 205.74)
 		(uuid "e5615e00-365c-4701-94f8-49bb3dd07212")
-	)
-	(no_connect
-		(at 702.945 95.885)
-		(uuid "ea76e081-1e22-4058-b506-3e75a52a34cc")
 	)
 	(no_connect
 		(at 85.09 223.52)
@@ -9738,6 +9607,16 @@
 			(type default)
 		)
 		(uuid "44e73b38-c1d4-4c9e-bd5f-75c38e459366")
+	)
+	(wire
+		(pts
+			(xy 702.945 106.045) (xy 717.55 106.045)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47ef86de-1033-4b76-900c-884b3af1da5e")
 	)
 	(wire
 		(pts
@@ -11428,6 +11307,16 @@
 			(type default)
 		)
 		(uuid "d0d1e597-541f-4bdb-96ff-052fdf1f6908")
+	)
+	(wire
+		(pts
+			(xy 431.8 106.68) (xy 448.31 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0f1fa69-cb20-44e5-89e0-02810a00bed4")
 	)
 	(wire
 		(pts
@@ -14073,7 +13962,7 @@
 	)
 	(global_label "R_GPIO12"
 		(shape input)
-		(at 702.945 126.365 0)
+		(at 702.945 108.585 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14083,7 +13972,7 @@
 		)
 		(uuid "3c9785d8-546f-43f0-bbf0-cf34e185b23d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 714.4079 126.365 0)
+			(at 714.4079 108.585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15399,7 +15288,7 @@
 	)
 	(global_label "R_GPIO22"
 		(shape input)
-		(at 702.945 98.425 0)
+		(at 702.945 93.345 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15409,7 +15298,7 @@
 		)
 		(uuid "6b25d5d1-bbc6-4d7d-9d58-db9dc8144d03")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 714.4079 98.425 0)
+			(at 714.4079 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15907,7 +15796,7 @@
 	)
 	(global_label "R_GPIO24"
 		(shape input)
-		(at 702.945 103.505 0)
+		(at 702.945 98.425 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15917,7 +15806,7 @@
 		)
 		(uuid "7dd9a7dd-6cb7-4b0e-94e3-a907ed8983c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 714.4079 103.505 0)
+			(at 714.4079 98.425 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16243,7 +16132,7 @@
 	)
 	(global_label "R_GPIO26"
 		(shape input)
-		(at 702.945 108.585 0)
+		(at 702.945 103.505 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16253,7 +16142,7 @@
 		)
 		(uuid "8cd6163e-e9df-408b-a529-ac8386183f74")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 714.4079 108.585 0)
+			(at 714.4079 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17983,7 +17872,7 @@
 	)
 	(global_label "R_GPIO23"
 		(shape input)
-		(at 702.945 100.965 0)
+		(at 702.945 95.885 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17993,7 +17882,7 @@
 		)
 		(uuid "d57d3390-8744-4c2c-9eaf-e26decb89e55")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 714.4079 100.965 0)
+			(at 714.4079 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18199,7 +18088,7 @@
 	)
 	(global_label "R_GPIO25"
 		(shape input)
-		(at 702.945 106.045 0)
+		(at 702.945 100.965 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18209,7 +18098,7 @@
 		)
 		(uuid "e56802be-64d6-429f-938f-36c996690c42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 714.4079 106.045 0)
+			(at 714.4079 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23893,7 +23782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060a4b967")
-		(property "Reference" "T_L_R1"
+		(property "Reference" "T_L_R0"
 			(at 129.667 53.5432 0)
 			(effects
 				(font
@@ -23953,7 +23842,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_R1")
+					(reference "T_L_R0")
 					(unit 1)
 				)
 			)
@@ -23968,7 +23857,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ab0114")
-		(property "Reference" "T_L_R2"
+		(property "Reference" "T_L_R1"
 			(at 129.667 77.0382 0)
 			(effects
 				(font
@@ -24028,7 +23917,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_R2")
+					(reference "T_L_R1")
 					(unit 1)
 				)
 			)
@@ -24043,7 +23932,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060b78ab4")
-		(property "Reference" "T_L_R3"
+		(property "Reference" "T_L_R2"
 			(at 129.667 101.1682 0)
 			(effects
 				(font
@@ -24103,7 +23992,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_R3")
+					(reference "T_L_R2")
 					(unit 1)
 				)
 			)
@@ -24118,7 +24007,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060c0e797")
-		(property "Reference" "T_L_R4"
+		(property "Reference" "T_L_R3"
 			(at 129.667 124.0282 0)
 			(effects
 				(font
@@ -24178,7 +24067,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_R4")
+					(reference "T_L_R3")
 					(unit 1)
 				)
 			)
@@ -24193,7 +24082,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060cd6e89")
-		(property "Reference" "T_L_C1"
+		(property "Reference" "T_L_C0"
 			(at 24.257 132.0038 90)
 			(effects
 				(font
@@ -24253,7 +24142,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_C1")
+					(reference "T_L_C0")
 					(unit 1)
 				)
 			)
@@ -24268,7 +24157,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060dd63ed")
-		(property "Reference" "T_L_C2"
+		(property "Reference" "T_L_C1"
 			(at 40.767 132.0038 90)
 			(effects
 				(font
@@ -24328,7 +24217,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_C2")
+					(reference "T_L_C1")
 					(unit 1)
 				)
 			)
@@ -24343,7 +24232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060e07ee7")
-		(property "Reference" "T_L_C3"
+		(property "Reference" "T_L_C2"
 			(at 57.277 132.0038 90)
 			(effects
 				(font
@@ -24403,7 +24292,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_C3")
+					(reference "T_L_C2")
 					(unit 1)
 				)
 			)
@@ -24418,7 +24307,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060e7fa4e")
-		(property "Reference" "T_L_C4"
+		(property "Reference" "T_L_C3"
 			(at 73.787 132.0038 90)
 			(effects
 				(font
@@ -24478,7 +24367,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_C4")
+					(reference "T_L_C3")
 					(unit 1)
 				)
 			)
@@ -24493,7 +24382,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060ee36d9")
-		(property "Reference" "T_L_C5"
+		(property "Reference" "T_L_C4"
 			(at 90.297 132.0038 90)
 			(effects
 				(font
@@ -24553,7 +24442,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_C5")
+					(reference "T_L_C4")
 					(unit 1)
 				)
 			)
@@ -24568,7 +24457,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060f4752d")
-		(property "Reference" "T_L_C6"
+		(property "Reference" "T_L_C5"
 			(at 106.807 132.0038 90)
 			(effects
 				(font
@@ -24628,7 +24517,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_C6")
+					(reference "T_L_C5")
 					(unit 1)
 				)
 			)
@@ -26143,7 +26032,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "09d622d4-a516-4d01-8669-3cf030092e27")
-		(property "Reference" "T_R_R1"
+		(property "Reference" "T_R_R0"
 			(at 153.543 53.5432 0)
 			(effects
 				(font
@@ -26203,7 +26092,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_R1")
+					(reference "T_R_R0")
 					(unit 1)
 				)
 			)
@@ -32503,7 +32392,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "519189f0-f921-46b0-ae54-af791db81ded")
-		(property "Reference" "T_R_R3"
+		(property "Reference" "T_R_R2"
 			(at 153.543 101.1682 0)
 			(effects
 				(font
@@ -32563,7 +32452,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_R3")
+					(reference "T_R_R2")
 					(unit 1)
 				)
 			)
@@ -32910,7 +32799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5354813c-2d39-4b5a-beca-d6bdfc40159f")
-		(property "Reference" "T_R_C4"
+		(property "Reference" "T_R_C2"
 			(at 209.423 132.0038 90)
 			(effects
 				(font
@@ -32970,7 +32859,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_C4")
+					(reference "T_R_C2")
 					(unit 1)
 				)
 			)
@@ -33636,6 +33525,73 @@
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_3")
+		(lib_id "power:GND")
+		(at 717.55 106.045 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ba6aa59-12d7-491a-9c13-ff03fb62f202")
+		(property "Reference" "#PWR067"
+			(at 717.55 112.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND_R"
+			(at 717.55 110.1781 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 717.55 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 717.55 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 717.55 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d6d5679-39fd-46c0-8ec7-4556e0f1f2d8")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -34433,70 +34389,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x01_Pin")
-		(at 697.865 126.365 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "640719f3-e701-4816-8efa-3e5c5fe493ad")
-		(property "Reference" "J12"
-			(at 698.5 122.1443 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 698.5 124.5686 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 697.865 126.365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 697.865 126.365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 697.865 126.365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ceecd7e8-4899-43da-8c15-6046f4eaa107")
-		)
-		(instances
-			(project "SandyLPD_Base"
-				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
 		(at 244.475 135.255 90)
 		(mirror x)
@@ -34506,7 +34398,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "64947a84-4d38-4250-a00a-b46d753e6ff2")
-		(property "Reference" "T_R_C6"
+		(property "Reference" "T_R_C0"
 			(at 242.443 132.0038 90)
 			(effects
 				(font
@@ -34566,7 +34458,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_C6")
+					(reference "T_R_C0")
 					(unit 1)
 				)
 			)
@@ -36400,7 +36292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_R"
 			(at 551.18 57.4731 0)
 			(effects
 				(font
@@ -36751,7 +36643,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "814fa27f-56d0-43cd-ac8e-64a88ad6f41b")
-		(property "Reference" "T_R_C2"
+		(property "Reference" "T_R_C4"
 			(at 176.403 132.0038 90)
 			(effects
 				(font
@@ -36811,7 +36703,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_C2")
+					(reference "T_R_C4")
 					(unit 1)
 				)
 			)
@@ -38530,7 +38422,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92c54b0d-f9a3-4873-9aa2-f49e589e8b72")
-		(property "Reference" "T_R_R2"
+		(property "Reference" "T_R_R1"
 			(at 153.543 77.0382 0)
 			(effects
 				(font
@@ -38590,7 +38482,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_R2")
+					(reference "T_R_R1")
 					(unit 1)
 				)
 			)
@@ -42805,7 +42697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND_R"
 			(at 561.34 57.4731 0)
 			(effects
 				(font
@@ -43789,7 +43681,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2723c52-8c0e-4745-bed8-0eb154eb5373")
-		(property "Reference" "T_L_R5"
+		(property "Reference" "T_R_R3"
 			(at 153.543 124.0282 0)
 			(effects
 				(font
@@ -43849,7 +43741,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_L_R5")
+					(reference "T_R_R3")
 					(unit 1)
 				)
 			)
@@ -44087,6 +43979,72 @@
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 448.31 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d84ef9b1-e37c-4b2d-828d-5e0f084e8577")
+		(property "Reference" "#PWR065"
+			(at 448.31 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 448.31 110.8131 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 448.31 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 448.31 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 448.31 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0c33684-77ff-456e-8440-7680c3ce917e")
+		)
+		(instances
+			(project ""
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -45464,7 +45422,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e3136c46-a5e7-4761-9aec-4b2b0892896b")
-		(property "Reference" "T_R_C5"
+		(property "Reference" "T_R_C1"
 			(at 225.933 132.0038 90)
 			(effects
 				(font
@@ -45524,7 +45482,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_C5")
+					(reference "T_R_C1")
 					(unit 1)
 				)
 			)
@@ -46759,7 +46717,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f165dfae-ac44-4037-ae06-35e267a6e055")
-		(property "Reference" "T_R_C1"
+		(property "Reference" "T_R_C5"
 			(at 159.893 132.0038 90)
 			(effects
 				(font
@@ -46819,7 +46777,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R_C1")
+					(reference "T_R_C5")
 					(unit 1)
 				)
 			)
@@ -47935,12 +47893,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 251.7831 109.855 0)
+		(property "Value" "GND_R"
+			(at 250.825 109.855 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
