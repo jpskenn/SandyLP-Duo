@@ -187,7 +187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame"
+		(property "Footprint" "locallib:MX-Switch-Hole-with-narrow-frame-for-socket-escape"
 			(at 83.82 28.575 0)
 			(effects
 				(font
