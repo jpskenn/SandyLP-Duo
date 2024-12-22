@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sandy-rescue")(type "Legacy")(uri "${KIPRJMOD}/SandyLPD_Mid-ISO-rescue.lib")(options "")(descr ""))
+)
