@@ -1614,7 +1614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
 			(at 66.675 111.125 0)
 			(effects
 				(font
@@ -1813,7 +1813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
 			(at 66.675 121.285 0)
 			(effects
 				(font
@@ -1975,7 +1975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
 			(at 38.735 111.125 0)
 			(effects
 				(font
@@ -2889,7 +2889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2_for_Reverse_narrow_#2pad"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_for_Reverse_narrow_#1_and_#2pad"
 			(at 43.18 45.72 0)
 			(effects
 				(font
@@ -3024,7 +3024,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
 			(at 38.735 121.285 0)
 			(effects
 				(font
