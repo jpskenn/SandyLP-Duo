@@ -1676,7 +1676,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10264225-1791-410d-9e41-7749c3624088")
-		(property "Reference" "D3"
+		(property "Reference" "D1"
 			(at 47.117 50.2666 90)
 			(effects
 				(font
@@ -1757,7 +1757,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D3")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -1970,7 +1970,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bbf9b8f-d4c5-4330-8deb-ff952806b5de")
-		(property "Reference" "T_R0"
+		(property "Reference" "T_R1"
 			(at 94.107 55.4482 0)
 			(effects
 				(font
@@ -2021,7 +2021,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R0")
+					(reference "T_R1")
 					(unit 1)
 				)
 			)
@@ -2052,7 +2052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2_small_#2pad"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_small_#2pad_for_Reverse_no_hole"
 			(at 40.005 42.545 0)
 			(effects
 				(font
@@ -2496,7 +2496,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "64dbfa96-829f-46c4-92a6-bd567a0e60e6")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 149.352 50.2666 90)
 			(effects
 				(font
@@ -2577,7 +2577,7 @@
 		(instances
 			(project "SandyLPD_Mid-CNT"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -2658,7 +2658,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "799b8fa3-cb4e-48dc-a62a-36b1f5958672")
-		(property "Reference" "D4"
+		(property "Reference" "D6"
 			(at 165.862 115.0366 90)
 			(effects
 				(font
@@ -2739,7 +2739,7 @@
 		(instances
 			(project "SandyLPD_Mid-CNT"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D4")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -2754,7 +2754,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7f4aa78f-d5fa-4df8-b529-c2e308c53e79")
-		(property "Reference" "D7"
+		(property "Reference" "D3"
 			(at 63.627 82.0166 90)
 			(effects
 				(font
@@ -2835,7 +2835,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D7")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -2850,7 +2850,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c026229-6953-4cff-9e4e-2b1307b63313")
-		(property "Reference" "T_R2"
+		(property "Reference" "T_R3"
 			(at 94.107 118.9482 0)
 			(effects
 				(font
@@ -2901,7 +2901,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R2")
+					(reference "T_R3")
 					(unit 1)
 				)
 			)
@@ -2982,7 +2982,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99d2734e-678e-4277-8119-5c2856ccfd8b")
-		(property "Reference" "T_R1"
+		(property "Reference" "T_R2"
 			(at 94.107 89.7382 0)
 			(effects
 				(font
@@ -3033,7 +3033,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "T_R1")
+					(reference "T_R2")
 					(unit 1)
 				)
 			)
@@ -3048,7 +3048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a04202c4-af07-4a68-bceb-792d1b04f28a")
-		(property "Reference" "D2"
+		(property "Reference" "D4"
 			(at 165.862 82.0166 90)
 			(effects
 				(font
@@ -3129,7 +3129,7 @@
 		(instances
 			(project "SandyLPD_Mid-CNT"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -3293,7 +3293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2_small_#2pad"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_small_#2pad_for_Reverse_no_hole"
 			(at 56.515 74.295 0)
 			(effects
 				(font
@@ -3543,7 +3543,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e73a99b3-45a4-48e4-b59e-5c57a9a725ce")
-		(property "Reference" "D12"
+		(property "Reference" "D5"
 			(at 63.627 115.0366 90)
 			(effects
 				(font
@@ -3624,7 +3624,7 @@
 		(instances
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D12")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -3787,7 +3787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2_small_#2pad"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_small_#2pad_for_Reverse_no_hole"
 			(at 56.515 107.315 0)
 			(effects
 				(font
