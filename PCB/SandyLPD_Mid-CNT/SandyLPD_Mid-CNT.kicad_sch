@@ -284,6 +284,88 @@
 				)
 			)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 		(symbol "Mechanical:MountingHole_Pad"
 			(pin_numbers hide)
 			(pin_names
@@ -1048,6 +1130,19 @@
 		)
 		(uuid "2ab2dd81-dc08-4790-b1c3-e564f838a206")
 	)
+	(text "SCREWS to Plate"
+		(exclude_from_sim no)
+		(at 37.465 248.92 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "39fab86f-5607-4e39-ae46-34240ab002f1")
+	)
 	(text "SCREWS to Base"
 		(exclude_from_sim no)
 		(at 35.56 172.72 0)
@@ -1695,7 +1790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 78.105 203.835 0)
 			(effects
 				(font
@@ -1827,7 +1922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 87.63 216.535 0)
 			(effects
 				(font
@@ -2026,7 +2121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 40.64 177.8 0)
 			(effects
 				(font
@@ -2090,7 +2185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_for_Reverse"
 			(at 158.75 74.295 0)
 			(effects
 				(font
@@ -2225,7 +2320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_1.8-2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
 			(at 67.31 190.5 0)
 			(effects
 				(font
@@ -2259,6 +2354,134 @@
 			(project "Sandy_Middle"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 86.36 264.16 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b7fecec-40ab-4432-8b0c-69b56f30b263")
+		(property "Reference" "H6"
+			(at 88.9 262.9478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 88.9 265.3721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+			(at 86.36 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 86.36 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SandyLPD_Mid-CNT"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 45.085 254 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "64549b5c-0730-4a7a-aa8b-9ab0419348e6")
+		(property "Reference" "H5"
+			(at 47.625 252.7878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 47.625 255.2121 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+			(at 45.085 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.085 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 45.085 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -3003,7 +3226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_for_Reverse"
 			(at 158.75 107.315 0)
 			(effects
 				(font
@@ -3203,7 +3426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:Kailh_socket_ChocV2"
+		(property "Footprint" "locallib:Kailh_socket_ChocV2_for_Reverse"
 			(at 142.24 42.545 0)
 			(effects
 				(font
