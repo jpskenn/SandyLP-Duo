@@ -43893,6 +43893,98 @@
 		(layer "Eco2.User")
 		(uuid "6ec089d8-7f5b-4caa-857f-99710cf45723")
 	)
+	(gr_line
+		(start 133.57259 80.581933)
+		(end 133.57259 93.083506)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "016760aa-557b-449f-9ca5-2ed6fd610973")
+	)
+	(gr_line
+		(start 134.763216 79.391307)
+		(end 146.074163 79.391307)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2f9d6a8a-c6cb-4ee6-9f6a-2827fb0c839e")
+	)
+	(gr_arc
+		(start 146.074163 79.391307)
+		(mid 146.916066 79.74003)
+		(end 147.264789 80.581933)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "463454ad-c4a2-460b-a728-83968a9e9837")
+	)
+	(gr_arc
+		(start 147.264789 93.083506)
+		(mid 146.916032 93.925375)
+		(end 146.074163 94.274132)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4937af41-0b68-4674-af9c-224d071026fc")
+	)
+	(gr_arc
+		(start 133.57259 80.581933)
+		(mid 133.921333 79.74005)
+		(end 134.763216 79.391307)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "539e74ff-96b7-48bb-acc4-4c7b0d36a488")
+	)
+	(gr_line
+		(start 147.264789 93.083506)
+		(end 147.264789 80.581933)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6b6362f2-3d0a-4565-adac-38f261fa4f51")
+	)
+	(gr_arc
+		(start 134.763216 94.274132)
+		(mid 133.921299 93.925423)
+		(end 133.57259 93.083506)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "732edb18-2808-47d4-b4bf-c489b046b1aa")
+	)
+	(gr_line
+		(start 146.074163 94.274132)
+		(end 134.763216 94.274132)
+		(locked yes)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9d0a6008-6d3c-46be-b368-85e8df2068e4")
+	)
 	(gr_text "#SandyLP_Duo DN0010"
 		(at 90.114741 112.728475 0)
 		(layer "F.Cu")
@@ -53285,5 +53377,14 @@
 		(uuid "f243b873-7287-48a9-b5fa-5a7bbc66bcfa")
 		(locked yes)
 		(members "3084c386-9d6e-4b65-ab72-6f6d9e9c5085" "f1620524-97c5-4beb-b292-3f5af92c31ac")
+	)
+	(group ""
+		(uuid "76785c4b-87c7-4bf9-b7df-758910dfa0f8")
+		(locked yes)
+		(members "016760aa-557b-449f-9ca5-2ed6fd610973" "2f9d6a8a-c6cb-4ee6-9f6a-2827fb0c839e"
+			"463454ad-c4a2-460b-a728-83968a9e9837" "4937af41-0b68-4674-af9c-224d071026fc"
+			"539e74ff-96b7-48bb-acc4-4c7b0d36a488" "6b6362f2-3d0a-4565-adac-38f261fa4f51"
+			"732edb18-2808-47d4-b4bf-c489b046b1aa" "9d0a6008-6d3c-46be-b368-85e8df2068e4"
+		)
 	)
 )
