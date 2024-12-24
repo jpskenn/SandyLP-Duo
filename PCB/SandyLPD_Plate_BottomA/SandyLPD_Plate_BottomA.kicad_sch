@@ -281,6 +281,18 @@
 	(bus_alias "def-a"
 		(members "row0" "row5" "col0" "col1")
 	)
+	(rectangle
+		(start 130.81 60.96)
+		(end 149.86 69.85)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid cdc88d0d-0f98-42a7-8359-7476333e57ce)
+	)
 	(text "SCREWS to Mid"
 		(exclude_from_sim no)
 		(at 125.73 47.625 0)
@@ -319,6 +331,17 @@
 			(justify left bottom)
 		)
 		(uuid "32a41bb7-6529-4a1b-8543-67c1a02f43f6")
+	)
+	(text "ボトムプレートのサイズを少し小さくしたので、\nMid-ISO用ネジのひとつは、基板外形から出てしまうため、\n穴を配置しない。"
+		(exclude_from_sim no)
+		(at 130.175 76.835 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left)
+		)
+		(uuid "c6e13cc3-6ebd-462a-a161-65f31b5d21a6")
 	)
 	(symbol
 		(lib_name "MountingHole_1")
@@ -934,7 +957,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28e7c032-6791-4d31-adcf-b7924cd64ac2")
-		(property "Reference" "H_mid_8"
+		(property "Reference" "#H_mid_8"
 			(at 135.89 64.2366 0)
 			(effects
 				(font
@@ -994,7 +1017,7 @@
 		(instances
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "H_mid_8")
+					(reference "#H_mid_8")
 					(unit 1)
 				)
 			)

@@ -27985,7 +27985,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "locallib:ChocV2_AND_RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal"
+		(property "Footprint" "locallib:ChocV2_AND_RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_NPTH_MP_minimal"
 			(at 52.07 105.791 0)
 			(effects
 				(font
@@ -47767,7 +47767,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "locallib:ChocV2_AND_RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal"
+		(property "Footprint" "locallib:ChocV2_AND_RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_NPTH_MP_minimal"
 			(at 243.84 105.791 0)
 			(effects
 				(font

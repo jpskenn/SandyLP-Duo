@@ -590,13 +590,6 @@
 		(roundrect_rratio 0.5)
 		(uuid "9c4f3e9d-fda0-49fa-87e3-f35de43c8ef4")
 	)
-	(pad "" np_thru_hole oval
-		(at 0 -5.1 270)
-		(size 3.1 1.6)
-		(drill oval 3.1 1.6)
-		(layers "F&B.Cu" "*.Mask")
-		(uuid "5b05921b-c9df-4ebb-87f7-390c53bdc391")
-	)
 	(pad "" np_thru_hole circle
 		(at 5 -5.15)
 		(size 1.6 1.6)
@@ -613,6 +606,7 @@
 		(uuid "c492146c-3a4b-4ccc-affb-b802e5ba81b6")
 	)
 	(model "${KIPRJMOD}/locallib.pretty/kailh-socket-choc.stp"
+		(hide yes)
 		(offset
 			(xyz -2 -6.7 -3.5)
 		)
@@ -636,6 +630,7 @@
 		)
 	)
 	(model "${KIPRJMOD}/locallib.pretty/EC12E-150.STEP"
+		(hide yes)
 		(offset
 			(xyz 0 0 2.3)
 		)

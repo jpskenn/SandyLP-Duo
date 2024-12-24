@@ -1,4 +1,4 @@
-(footprint "ChocV2_AND_RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal"
+(footprint "ChocV2_AND_RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_NPTH_MP_minimal"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "ChocV2_AND_RotaryEncoder_Alps_EC11K-Switch_Vertical_H20mm_NPTH_MP_minimal"
+	(property "Value" "ChocV2_AND_RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_NPTH_MP_minimal"
 		(at 0 9.5 0)
 		(layer "F.Fab")
 		(uuid "7fde4194-30c0-40cf-87c0-afe5355768b0")
@@ -801,7 +801,7 @@
 		(size 3 3)
 		(drill 3)
 		(layers "*.Cu" "*.Mask")
-		(uuid "b5c44323-6770-4741-889a-7d753342e7ff")
+		(uuid "8e05c548-b3c1-42a7-95c0-36c9b6deb055")
 	)
 	(pad "" np_thru_hole circle
 		(at 5 -5.15)
