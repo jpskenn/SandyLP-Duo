@@ -551,6 +551,18 @@
       {
         "netclass": "Power",
         "pattern": "VDD"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+3V3_R"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5V_R"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VBUS_R"
       }
     ]
   },
