@@ -23653,7 +23653,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f744321")
-		(property "Reference" "D36"
+		(property "Reference" "D98"
 			(at 475.615 15.875 90)
 			(effects
 				(font
@@ -23731,7 +23731,7 @@
 		(instances
 			(project "Sandy_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D36")
+					(reference "D98")
 					(unit 1)
 				)
 			)
@@ -36589,7 +36589,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7f37fe8b-9379-4c52-afc1-ba664d26abab")
-		(property "Reference" "D40"
+		(property "Reference" "D99"
 			(at 747.395 15.875 90)
 			(effects
 				(font
@@ -36667,7 +36667,7 @@
 		(instances
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
-					(reference "D40")
+					(reference "D99")
 					(unit 1)
 				)
 			)
