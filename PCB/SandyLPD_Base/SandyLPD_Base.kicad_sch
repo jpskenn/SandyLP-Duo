@@ -29732,7 +29732,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 367.03 29.845 90)
 			(effects
 				(font
@@ -29741,7 +29741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g108275/"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724011370958848"
 			(at 367.03 29.845 90)
 			(effects
 				(font
@@ -29759,7 +29759,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2297"
 			(at 367.03 29.845 0)
 			(effects
 				(font
@@ -44336,7 +44336,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 638.81 29.845 90)
 			(effects
 				(font
@@ -44345,7 +44345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724011370958848"
 			(at 638.81 29.845 90)
 			(effects
 				(font
@@ -44363,7 +44363,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2297"
 			(at 638.81 29.845 0)
 			(effects
 				(font
