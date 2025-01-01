@@ -64,6 +64,68 @@
 		)
 	)
 	(attr through_hole)
+	(fp_poly
+		(pts
+			(arc
+				(start -126.956357 6.943762)
+				(mid -126.897778 7.085183)
+				(end -126.756357 7.143762)
+			)
+			(arc
+				(start -125.656357 7.143762)
+				(mid -125.514936 7.085183)
+				(end -125.456357 6.943762)
+			)
+			(arc
+				(start -125.456357 -6.94375)
+				(mid -125.514936 -7.085171)
+				(end -125.656357 -7.14375)
+			)
+			(arc
+				(start -126.756357 -7.14375)
+				(mid -126.897778 -7.085171)
+				(end -126.956357 -6.94375)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "B.Mask")
+		(uuid "af9ceee7-2e0c-49b0-a2e9-ee1387f76c32")
+	)
+	(fp_poly
+		(pts
+			(arc
+				(start -126.956357 6.943762)
+				(mid -126.897778 7.085183)
+				(end -126.756357 7.143762)
+			)
+			(arc
+				(start -125.656357 7.143762)
+				(mid -125.514936 7.085183)
+				(end -125.456357 6.943762)
+			)
+			(arc
+				(start -125.456357 -6.94375)
+				(mid -125.514936 -7.085171)
+				(end -125.656357 -7.14375)
+			)
+			(arc
+				(start -126.756357 -7.14375)
+				(mid -126.897778 -7.085171)
+				(end -126.956357 -6.94375)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "dbf89ead-9d6f-4ef9-a771-712083b5320b")
+	)
 	(fp_line
 		(start -140.49375 -66.675)
 		(end -130.96875 -66.675)
@@ -165,6 +227,36 @@
 		(uuid "7fb6b1dd-e8a9-474c-9144-9de81b96fca9")
 	)
 	(fp_line
+		(start -130.968857 -5.953125)
+		(end -123.825107 -5.953125)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "c1b030ef-2c63-4e90-89b6-c0be0230e3b5")
+	)
+	(fp_line
+		(start -130.968857 0)
+		(end -123.825107 0)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "7eb1cc40-2b92-4029-bf9b-d45b316a7d45")
+	)
+	(fp_line
+		(start -130.968857 5.953125)
+		(end -123.825107 5.953125)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "06bc3908-3d71-4abd-877d-f1755f55a2ea")
+	)
+	(fp_line
 		(start -130.96875 -47.625)
 		(end -130.96875 -66.675)
 		(stroke
@@ -193,6 +285,16 @@
 		)
 		(layer "Dwgs.User")
 		(uuid "a1319ec2-341a-48d2-adfb-51402b0ef713")
+	)
+	(fp_line
+		(start -127.396982 8.334375)
+		(end -127.396982 -8.334375)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "c9ef6121-4c2f-4b47-ac4f-824e650ecfc7")
 	)
 	(fp_line
 		(start -121.94375 -50.70629)
@@ -826,6 +928,36 @@
 		(layer "Edge.Cuts")
 		(uuid "f1bd0fe4-e49f-43a5-b3be-f860701d5534")
 	)
+	(fp_line
+		(start -152.4 -2.38125)
+		(end -137.517175 -2.38125)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "f1f41d04-7416-48fb-bf5d-de2c0a24c6ca")
+	)
+	(fp_line
+		(start -137.517175 -2.38125)
+		(end -139.303114 -2.976563)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "dff23dfc-23b2-43a1-8252-35e11046d6e4")
+	)
+	(fp_line
+		(start -137.517175 -2.38125)
+		(end -139.303114 -1.785937)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ed35e4eb-2dd7-4fce-884b-41cc7825ae89")
+	)
 	(fp_text user "1.25u"
 		(at -40.48125 11.90625 0)
 		(unlocked yes)
@@ -837,6 +969,77 @@
 				(thickness 0.15)
 			)
 			(justify left bottom)
+		)
+	)
+	(fp_text_box "DO NOT DRILL HERE!!\nThis is NOT a hole.\n\nNo F.Cu, B,Cu & F.Mask, B.Mask\n--> Bare FR-4 only"
+		(start -149.721332 -3.571876)
+		(end -177.701043 5.953132)
+		(layer "F.Fab")
+		(uuid "b24d541d-1a1d-44b4-8dc2-069f43393141")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left top)
+		)
+		(border yes)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F&B.Cu")
+		(uuid "3ad04498-60e2-46aa-b930-f8655c568c8e")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(arc
+					(start -126.9 -7.4)
+					(mid -127.112132 -7.312132)
+					(end -127.2 -7.1)
+				)
+				(arc
+					(start -127.2 7.1)
+					(mid -127.112132 7.312132)
+					(end -126.9 7.4)
+				)
+				(arc
+					(start -125.5 7.4)
+					(mid -125.287868 7.312132)
+					(end -125.2 7.1)
+				)
+				(arc
+					(start -125.2 -7.1)
+					(mid -125.287868 -7.312132)
+					(end -125.5 -7.4)
+				)
+			)
+		)
+	)
+	(group ""
+		(uuid "e130ae25-2ca0-4dd0-8b5d-9fd97e5560e1")
+		(members "b24d541d-1a1d-44b4-8dc2-069f43393141" "dff23dfc-23b2-43a1-8252-35e11046d6e4"
+			"ed35e4eb-2dd7-4fce-884b-41cc7825ae89" "f1f41d04-7416-48fb-bf5d-de2c0a24c6ca"
 		)
 	)
 )
