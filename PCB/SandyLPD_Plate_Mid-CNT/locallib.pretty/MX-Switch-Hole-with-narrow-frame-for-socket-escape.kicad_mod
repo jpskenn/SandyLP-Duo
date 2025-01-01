@@ -132,6 +132,13 @@
 		(roundrect_rratio 0.5)
 		(uuid "88f40c65-19d0-4339-b262-50b5e371ae7d")
 	)
+	(pad "" np_thru_hole circle
+		(at -5 -5.15)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "7076867f-6130-43dc-9380-4d968f16eb2d")
+	)
 	(pad "" np_thru_hole roundrect
 		(at -4 7.3 90)
 		(size 4 1.8)
@@ -141,9 +148,9 @@
 		(uuid "83965268-f8f5-4a18-87d3-bf133e51e91d")
 	)
 	(pad "" np_thru_hole roundrect
-		(at -3 -2.75 90)
-		(size 9.3 1.8)
-		(drill oval 8.5 1)
+		(at -3 -1 90)
+		(size 5.8 1.8)
+		(drill oval 5 1)
 		(layers "F&B.Cu" "*.Mask")
 		(roundrect_rratio 0.5)
 		(uuid "d0a7168a-2f00-43fb-b08d-9a4a7bfe5ad2")
@@ -157,7 +164,7 @@
 		(uuid "8599a944-feb3-49a9-85cc-71691b7a1f8b")
 	)
 	(pad "" np_thru_hole roundrect
-		(at 1.75 -6.5)
+		(at 1.75 -3)
 		(size 11.3 1.8)
 		(drill oval 10.5 1)
 		(layers "F&B.Cu" "*.Mask")
@@ -172,6 +179,13 @@
 		(roundrect_rratio 0.5)
 		(uuid "6f2ae663-8da6-4cbc-8f05-eba4aaee584f")
 	)
+	(pad "" np_thru_hole circle
+		(at 5 -5.15)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "7f870dfb-ca2f-45ea-ac6c-fca5baf7c5c9")
+	)
 	(pad "" np_thru_hole roundrect
 		(at 6.3 6.2)
 		(size 6.2 1.8)
@@ -181,9 +195,9 @@
 		(uuid "1054d5ee-5a66-4563-b4f7-35c0b5225486")
 	)
 	(pad "" np_thru_hole roundrect
-		(at 6.5 -2.75 90)
-		(size 9.3 1.8)
-		(drill oval 8.5 1)
+		(at 6.5 -1 90)
+		(size 5.8 1.8)
+		(drill oval 5 1)
 		(layers "F&B.Cu" "*.Mask")
 		(roundrect_rratio 0.5)
 		(uuid "91dd1f95-455a-4ef5-b1a4-f09899bc8b81")
