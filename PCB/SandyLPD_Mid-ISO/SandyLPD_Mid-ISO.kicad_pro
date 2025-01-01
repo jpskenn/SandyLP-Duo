@@ -522,7 +522,7 @@
       "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/SandyLP_Middle_Isolated_Area.step",
+      "step": "../../../../../tmp/SandyLPD_3D_Data/mid-iso.step",
       "svg": "/Users/kenn/Desktop/",
       "vrml": ""
     },
