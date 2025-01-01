@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 33.0,
-          "height": 12.5,
-          "width": 33.0
+          "drill": 17.4,
+          "height": 1.8,
+          "width": 17.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -562,7 +562,7 @@
       "plot": "Gerbers/",
       "pos_files": "Gerbers/SMTA/",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/SandyLP_Base.step",
+      "step": "../../../../../tmp/SandyLPD_3D_Data/plate_bottom_A.step",
       "svg": "",
       "vrml": "../../../../../tmp/Sandy_Base.wrl"
     },

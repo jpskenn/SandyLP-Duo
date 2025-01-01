@@ -78,7 +78,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(aux_axis_origin 21.058435 21.05028)
-		(grid_origin 25.820935 37.71903)
+		(grid_origin 30.583435 40.10028)
 		(pcbplotparams
 			(layerselection 0x00310fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -11320,7 +11320,7 @@
 		)
 		(fp_arc
 			(start 0.7 3.345415)
-			(mid 0.662237 3.758478)
+			(mid 0.662236 3.758481)
 			(end 0.272339 3.9)
 			(stroke
 				(width 0.12)
@@ -11541,7 +11541,7 @@
 		)
 		(fp_arc
 			(start 0.7 3.345415)
-			(mid 0.662237 3.758478)
+			(mid 0.662236 3.758481)
 			(end 0.272339 3.9)
 			(stroke
 				(width 0.12)
@@ -13485,7 +13485,7 @@
 		)
 		(fp_arc
 			(start 0.7 3.345415)
-			(mid 0.662236 3.758481)
+			(mid 0.662237 3.758478)
 			(end 0.272339 3.9)
 			(stroke
 				(width 0.12)

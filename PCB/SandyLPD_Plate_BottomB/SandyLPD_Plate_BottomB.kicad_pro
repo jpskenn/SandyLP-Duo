@@ -562,7 +562,7 @@
       "plot": "Gerbers/",
       "pos_files": "Gerbers/SMTA/",
       "specctra_dsn": "",
-      "step": "../../../../../tmp/SandyLP_Base.step",
+      "step": "../../../../../tmp/SandyLPD_3D_Data/plate_bottom_B.step",
       "svg": "",
       "vrml": "../../../../../tmp/Sandy_Base.wrl"
     },
