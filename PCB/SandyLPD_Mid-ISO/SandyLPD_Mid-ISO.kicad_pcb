@@ -1413,7 +1413,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "30db66bc-6e98-44e5-9ec8-f1accc3a60de")
-		(at 36.600419 42.206339 90)
+		(at 37.462919 42.657589 90)
 		(property "Reference" "REF**"
 			(at 0 0.5 90)
 			(layer "Cmts.User")
@@ -1765,7 +1765,7 @@
 		)
 		(fp_arc
 			(start 0.729448 -0.077979)
-			(mid 0.25051 -0.290344)
+			(mid 0.250512 -0.290345)
 			(end 0.092873 -0.789976)
 			(stroke
 				(width 0.12)
@@ -2278,7 +2278,7 @@
 		)
 		(fp_arc
 			(start 0.729448 -0.077979)
-			(mid 0.25051 -0.290344)
+			(mid 0.250512 -0.290345)
 			(end 0.092873 -0.789976)
 			(stroke
 				(width 0.12)
@@ -4267,7 +4267,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D1"
-			(at -1.315625 2.125 90)
+			(at -0.595306 2.125 90)
 			(layer "B.SilkS")
 			(uuid "f3fce067-36ed-4321-aa8c-a1f2eab02fc5")
 			(effects
@@ -8334,7 +8334,7 @@
 		(start 38.220935 40.51903)
 		(end 38.220935 38.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8344,7 +8344,7 @@
 		(start 38.220935 43.61903)
 		(end 44.220935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8354,17 +8354,17 @@
 		(start 56.020935 38.71903)
 		(end 38.220935 38.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
 		(uuid "43402db8-e7aa-4695-a4e7-908e5edc5af3")
 	)
 	(gr_rect
-		(start 28.020935 37.36903)
-		(end 32.020935 46.46903)
+		(start 27.583435 37.35028)
+		(end 32.583435 46.45028)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(fill none)
@@ -8375,7 +8375,7 @@
 		(start 65.220935 44.41903)
 		(end 67.820935 44.41903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8385,7 +8385,7 @@
 		(start 67.820935 44.41903)
 		(end 67.820935 51.51903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8395,7 +8395,7 @@
 		(start 38.220935 43.31903)
 		(end 38.220935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8405,7 +8405,7 @@
 		(start 45.150935 58.31903)
 		(end 45.150935 55.21903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8415,17 +8415,17 @@
 		(start 45.150935 58.31903)
 		(end 49.150935 58.31903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
 		(uuid "81be454c-e736-496d-a9e3-bad8a4608d3d")
 	)
 	(gr_line
-		(start 67.920935 51.36903)
-		(end 67.920935 52.66903)
+		(start 67.873435 51.36028)
+		(end 67.873435 52.66028)
 		(stroke
-			(width 0.3)
+			(width 0.2)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8435,7 +8435,7 @@
 		(start 62.320935 53.81903)
 		(end 62.320935 44.41903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8445,7 +8445,7 @@
 		(start 45.820935 43.61903)
 		(end 53.420935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8455,7 +8455,7 @@
 		(start 54.820935 43.61903)
 		(end 56.020935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8465,7 +8465,7 @@
 		(start 49.150935 51.71903)
 		(end 45.820935 51.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8475,7 +8475,7 @@
 		(start 67.820935 53.81903)
 		(end 65.920935 53.81903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8485,7 +8485,7 @@
 		(start 56.020935 43.61903)
 		(end 56.020935 38.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8495,7 +8495,7 @@
 		(start 62.320935 44.41903)
 		(end 63.070935 44.41903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8505,7 +8505,7 @@
 		(start 49.150935 58.31903)
 		(end 49.150935 51.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8515,7 +8515,7 @@
 		(start 62.420935 53.81903)
 		(end 62.320935 53.81903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8525,7 +8525,7 @@
 		(start 67.820935 52.51903)
 		(end 67.820935 53.81903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "B.SilkS")
@@ -8535,7 +8535,7 @@
 		(start 38.220935 40.51903)
 		(end 38.220935 38.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8545,7 +8545,7 @@
 		(start 54.820935 43.61903)
 		(end 56.020935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8555,7 +8555,7 @@
 		(start 50.120935 51.71903)
 		(end 53.220935 51.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8565,7 +8565,7 @@
 		(start 45.820935 43.61903)
 		(end 53.420935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8575,17 +8575,17 @@
 		(start 38.220935 43.61903)
 		(end 44.220935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
 		(uuid "32116f96-19eb-4ba5-a1a4-956e9665acb3")
 	)
 	(gr_rect
-		(start 28.020935 37.36903)
-		(end 32.020935 46.46903)
+		(start 27.583435 37.36903)
+		(end 32.583435 46.46903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(fill none)
@@ -8596,7 +8596,7 @@
 		(start 54.120935 58.31903)
 		(end 54.120935 55.21903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8606,7 +8606,7 @@
 		(start 50.120935 58.31903)
 		(end 50.120935 51.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8616,7 +8616,7 @@
 		(start 56.020935 43.61903)
 		(end 56.020935 38.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8626,7 +8626,7 @@
 		(start 56.020935 38.71903)
 		(end 38.220935 38.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8636,7 +8636,7 @@
 		(start 38.220935 43.31903)
 		(end 38.220935 43.61903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8646,7 +8646,7 @@
 		(start 54.120935 58.31903)
 		(end 50.120935 58.31903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -8656,7 +8656,7 @@
 		(start 62.320935 41.71903)
 		(end 67.820935 50.71903)
 		(stroke
-			(width 0.5)
+			(width 0.3)
 			(type default)
 		)
 		(fill none)
