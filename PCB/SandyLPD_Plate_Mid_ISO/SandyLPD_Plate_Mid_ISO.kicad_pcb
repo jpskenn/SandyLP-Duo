@@ -231,6 +231,17 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "46268b99-b05a-4e1f-b38e-5fd9acc8359f")
 		)
+		(model "${KIPRJMOD}/locallib.pretty/M2 x 3 Screw head.STEP"
+			(offset
+				(xyz 0 0 1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 -90 0)
+			)
+		)
 	)
 	(footprint "locallib:SandyLPD_outline_Mid-ISO"
 		(locked yes)
@@ -747,6 +758,17 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(uuid "178ba5b1-652e-4089-b26b-0852b80a6ae7")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/M2 x 3 Screw head.STEP"
+			(offset
+				(xyz 0 0 1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 -90 0)
+			)
 		)
 	)
 	(footprint "locallib:MX-Switch-Hole-with-narrow-frame"

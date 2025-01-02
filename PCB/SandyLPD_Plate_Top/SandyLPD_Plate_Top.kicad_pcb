@@ -1074,6 +1074,17 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "5fa0b0c0-6ea3-4383-b63f-7c42836a46e1")
 		)
+		(model "${KIPRJMOD}/locallib.pretty/M2 x 3 Screw head.STEP"
+			(offset
+				(xyz 0 0 1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 -90 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
@@ -1187,6 +1198,17 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(uuid "6f7d513c-72f2-4f6f-8428-50b10d161579")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/M2 x 3 Screw head.STEP"
+			(offset
+				(xyz 0 0 1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 -90 0)
+			)
 		)
 	)
 	(footprint "locallib:MX-Switch-Hole-with-narrow-frame"
