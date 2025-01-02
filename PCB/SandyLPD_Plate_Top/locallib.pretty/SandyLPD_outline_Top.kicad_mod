@@ -757,8 +757,8 @@
 		(uuid "bf151a4b-64b0-4c3b-a657-126a24ca1c24")
 	)
 	(fp_line
-		(start -37.475 -2.52504)
-		(end -37.475 -21.51258)
+		(start -37.475 -1.715666)
+		(end -37.475 -22.321954)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -767,8 +767,8 @@
 		(uuid "a8109663-f69d-4a36-b971-2edaa395108f")
 	)
 	(fp_line
-		(start -35.475 -0.52504)
-		(end -9.14375 -0.52504)
+		(start -36.284374 -0.52504)
+		(end -8.334376 -0.52504)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -778,7 +778,7 @@
 	)
 	(fp_line
 		(start -11.90625 -23.51258)
-		(end -35.475 -23.51258)
+		(end -36.284374 -23.51258)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -787,7 +787,7 @@
 		(uuid "abb379f4-2cbf-41ba-a6dd-26bd3717469f")
 	)
 	(fp_line
-		(start -7.14375 -2.52504)
+		(start -7.14375 -1.715666)
 		(end -7.14375 -18.75008)
 		(stroke
 			(width 0.3)
@@ -797,26 +797,26 @@
 		(uuid "d3b522b2-347e-44c9-8431-56c11f8338ce")
 	)
 	(fp_arc
-		(start -37.475 -21.51258)
-		(mid -36.889214 -22.926794)
-		(end -35.475 -23.51258)
+		(start -37.475 -22.321954)
+		(mid -37.126274 -23.163854)
+		(end -36.284374 -23.51258)
 		(stroke
 			(width 0.3)
-			(type solid)
+			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "a04609b4-694d-4cb1-a296-dc9b23fbecd1")
+		(uuid "73b51e45-17d3-418c-a368-3e8f047f81bf")
 	)
 	(fp_arc
-		(start -35.475 -0.52504)
-		(mid -36.889214 -1.110826)
-		(end -37.475 -2.52504)
+		(start -36.284374 -0.52504)
+		(mid -37.126274 -0.873766)
+		(end -37.475 -1.715666)
 		(stroke
 			(width 0.3)
-			(type solid)
+			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "88a34e10-d37c-4f13-a835-8352e53174a0")
+		(uuid "f664daee-458d-4650-a260-10d2d0b06337")
 	)
 	(fp_arc
 		(start -11.90625 -23.51258)
@@ -830,14 +830,14 @@
 		(uuid "aa99ebb9-7fed-4f77-999a-1c8fc07d7153")
 	)
 	(fp_arc
-		(start -7.14375 -2.52504)
-		(mid -7.729553 -1.110843)
-		(end -9.14375 -0.52504)
+		(start -7.14375 -1.715666)
+		(mid -7.492476 -0.873766)
+		(end -8.334376 -0.52504)
 		(stroke
 			(width 0.3)
-			(type solid)
+			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "ef07f581-e7d2-4441-b66d-350d2be5ee56")
+		(uuid "163495db-1ec5-4738-a2b1-cbb994cbbd7a")
 	)
 )
