@@ -5956,7 +5956,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D6"
-			(at -1.190626 1.785939 90)
+			(at -1.234416 1.785939 90)
 			(layer "F.SilkS")
 			(uuid "145069c1-9c46-4743-b892-fea9baf2aee4")
 			(effects
@@ -14234,8 +14234,8 @@
 		)
 	)
 	(gr_rect
-		(start 142.783435 37.403444)
-		(end 147.783435 69.623749)
+		(start 142.783435 40.50028)
+		(end 147.783435 70.50028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14279,7 +14279,7 @@
 	)
 	(gr_rect
 		(start 134.383435 40.490128)
-		(end 139.383435 63.310433)
+		(end 139.383435 60.490128)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14290,7 +14290,7 @@
 	)
 	(gr_rect
 		(start 134.383435 40.490128)
-		(end 139.383435 63.310433)
+		(end 139.383435 60.490128)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14311,8 +14311,8 @@
 		(uuid "3201b77e-767d-44b3-9bec-3d8922601fbd")
 	)
 	(gr_rect
-		(start 142.783435 37.403444)
-		(end 147.783435 69.623749)
+		(start 142.783435 40.50028)
+		(end 147.783435 70.50028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14344,7 +14344,7 @@
 		(uuid "e27190fd-e18b-4582-bd14-3b96f4f6e161")
 	)
 	(gr_text "L 左 Back"
-		(at 149.983435 47.90028 90)
+		(at 142.983435 38.70028 0)
 		(layer "B.SilkS" knockout)
 		(uuid "56014a43-4ff1-419e-8ac1-e182f9674465")
 		(effects
@@ -14357,7 +14357,7 @@
 		)
 	)
 	(gr_text "#SandyLP_Duo DN0010"
-		(at 141.183435 36.11903 90)
+		(at 149.183435 40.30028 90)
 		(layer "B.SilkS")
 		(uuid "f9c8c7b0-199c-475b-b458-de1a85834646")
 		(effects
@@ -14369,7 +14369,7 @@
 		)
 	)
 	(gr_text "R 右 Back"
-		(at 149.883435 48.00028 90)
+		(at 142.583435 38.60028 0)
 		(layer "F.SilkS" knockout)
 		(uuid "0cae2786-fd13-4541-a7a4-fe71bca486af")
 		(effects
