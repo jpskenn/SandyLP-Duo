@@ -468,7 +468,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "23fc29b6-c42b-44d5-965e-b7a67ffbb2e5")
-		(at 63.241452 43.431721 -90)
+		(at 62.853952 43.312971 -90)
 		(property "Reference" "REF**"
 			(at 0 0.5 90)
 			(layer "Cmts.User")
@@ -8331,7 +8331,7 @@
 		)
 	)
 	(gr_line
-		(start 38.220935 40.51903)
+		(start 38.220935 40.71903)
 		(end 38.220935 38.71903)
 		(stroke
 			(width 0.3)
@@ -8341,8 +8341,8 @@
 		(uuid "11428138-da8c-4a80-9f1d-677723fac3c2")
 	)
 	(gr_line
-		(start 38.220935 43.61903)
-		(end 44.220935 43.61903)
+		(start 38.220935 43.71903)
+		(end 44.220935 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8361,8 +8361,8 @@
 		(uuid "43402db8-e7aa-4695-a4e7-908e5edc5af3")
 	)
 	(gr_rect
-		(start 27.583435 37.35028)
-		(end 32.583435 46.45028)
+		(start 27.583435 37.30028)
+		(end 32.583435 46.30028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8373,7 +8373,7 @@
 	)
 	(gr_line
 		(start 65.220935 44.41903)
-		(end 67.820935 44.41903)
+		(end 67.320935 44.41903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8382,8 +8382,8 @@
 		(uuid "5b85145c-89a9-4fca-a68e-92e3e32846e4")
 	)
 	(gr_line
-		(start 67.820935 44.41903)
-		(end 67.820935 51.51903)
+		(start 67.320935 44.41903)
+		(end 67.320935 51.40028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8392,8 +8392,8 @@
 		(uuid "741496bf-8f2b-4435-a062-183cb601329a")
 	)
 	(gr_line
-		(start 38.220935 43.31903)
-		(end 38.220935 43.61903)
+		(start 38.220935 43.21903)
+		(end 38.220935 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8422,16 +8422,6 @@
 		(uuid "81be454c-e736-496d-a9e3-bad8a4608d3d")
 	)
 	(gr_line
-		(start 67.873435 51.36028)
-		(end 67.873435 52.66028)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "B.SilkS")
-		(uuid "8384a43c-f0b9-4488-9234-554160341b1b")
-	)
-	(gr_line
 		(start 62.320935 53.81903)
 		(end 62.320935 44.41903)
 		(stroke
@@ -8442,8 +8432,8 @@
 		(uuid "8b79cee8-ffb1-44fc-bd86-8556a311b9ac")
 	)
 	(gr_line
-		(start 45.820935 43.61903)
-		(end 53.420935 43.61903)
+		(start 45.833435 43.71903)
+		(end 53.433435 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8452,8 +8442,8 @@
 		(uuid "ae6d67e8-9d14-4980-8ace-b7569d0cee48")
 	)
 	(gr_line
-		(start 54.820935 43.61903)
-		(end 56.020935 43.61903)
+		(start 54.820935 43.71903)
+		(end 56.020935 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8472,7 +8462,7 @@
 		(uuid "b4b291f1-feed-42d9-9722-9baf86f76096")
 	)
 	(gr_line
-		(start 67.820935 53.81903)
+		(start 67.333435 53.81903)
 		(end 65.920935 53.81903)
 		(stroke
 			(width 0.3)
@@ -8482,7 +8472,7 @@
 		(uuid "b6d51d9f-a379-4c20-8fec-29173a68b3cf")
 	)
 	(gr_line
-		(start 56.020935 43.61903)
+		(start 56.020935 43.71903)
 		(end 56.020935 38.71903)
 		(stroke
 			(width 0.3)
@@ -8512,7 +8502,7 @@
 		(uuid "f2eb2023-c68b-4eb5-8f2f-8e7263bc278c")
 	)
 	(gr_line
-		(start 62.420935 53.81903)
+		(start 62.533435 53.81903)
 		(end 62.320935 53.81903)
 		(stroke
 			(width 0.3)
@@ -8522,8 +8512,8 @@
 		(uuid "f4a5c188-b852-413b-91de-3f4e15e761ff")
 	)
 	(gr_line
-		(start 67.820935 52.51903)
-		(end 67.820935 53.81903)
+		(start 67.333435 52.65028)
+		(end 67.333435 53.81903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8532,7 +8522,7 @@
 		(uuid "ff507563-963e-4c03-a8bd-e78bb4977c35")
 	)
 	(gr_line
-		(start 38.220935 40.51903)
+		(start 38.220935 40.71903)
 		(end 38.220935 38.71903)
 		(stroke
 			(width 0.3)
@@ -8542,8 +8532,8 @@
 		(uuid "04e58b55-baa6-4eed-af3d-51eb1e9f0b29")
 	)
 	(gr_line
-		(start 54.820935 43.61903)
-		(end 56.020935 43.61903)
+		(start 54.820935 43.71903)
+		(end 56.020935 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8562,8 +8552,8 @@
 		(uuid "2cd08bf0-cf8b-4b7b-b294-e7a53d2eae5f")
 	)
 	(gr_line
-		(start 45.820935 43.61903)
-		(end 53.420935 43.61903)
+		(start 45.833435 43.71903)
+		(end 53.433435 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8572,8 +8562,8 @@
 		(uuid "3210da56-1d00-44b9-bf60-82948842a406")
 	)
 	(gr_line
-		(start 38.220935 43.61903)
-		(end 44.220935 43.61903)
+		(start 38.220935 43.71903)
+		(end 44.220935 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8582,8 +8572,8 @@
 		(uuid "32116f96-19eb-4ba5-a1a4-956e9665acb3")
 	)
 	(gr_rect
-		(start 27.583435 37.36903)
-		(end 32.583435 46.46903)
+		(start 27.583435 37.30028)
+		(end 32.583435 46.30028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8613,7 +8603,7 @@
 		(uuid "7036858d-fc70-4d72-a336-43b9bd2df97f")
 	)
 	(gr_line
-		(start 56.020935 43.61903)
+		(start 56.020935 43.71903)
 		(end 56.020935 38.71903)
 		(stroke
 			(width 0.3)
@@ -8633,8 +8623,8 @@
 		(uuid "cf416f73-bd39-42bb-8891-1286fbe00cb4")
 	)
 	(gr_line
-		(start 38.220935 43.31903)
-		(end 38.220935 43.61903)
+		(start 38.220935 43.21903)
+		(end 38.220935 43.71903)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -8654,7 +8644,7 @@
 	)
 	(gr_rect
 		(start 62.320935 41.71903)
-		(end 67.820935 50.71903)
+		(end 67.320935 50.71903)
 		(stroke
 			(width 0.3)
 			(type default)
