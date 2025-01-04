@@ -2235,7 +2235,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "locallib:MX-Switch-Hole-for-RE(higher hole)-with-narrow-frame"
+		(property "Footprint" "locallib:MX-Switch-Hole-for-RE(higher hole)-with-narrow-frame-gentle-corner"
 			(at 52.07 105.791 0)
 			(effects
 				(font
