@@ -1362,6 +1362,28 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 137.144467 39.148726)
+		(end 142.144467 54.148726)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "12877d7d-abed-445f-9a98-1865e58f1b27")
+	)
+	(gr_rect
+		(start 133.335093 33.55184)
+		(end 143.335093 38.55184)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "2d920cf3-e51d-4d2c-bb94-6f05d652f1a3")
+	)
 	(zone
 		(net 0)
 		(net_name "")
