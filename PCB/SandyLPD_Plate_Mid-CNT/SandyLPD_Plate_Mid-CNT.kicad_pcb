@@ -3601,7 +3601,73 @@
 			(uuid "e06c92f6-41e6-474b-a2db-97a0c7fd9408")
 		)
 	)
-	(gr_text "Top基板うら側のソケットを逃すようにを調整。"
+	(gr_rect
+		(start 136.483435 76.20028)
+		(end 139.783435 80.20028)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "0b0cc97f-d5b5-4839-a3a1-ecd86d04ca06")
+	)
+	(gr_rect
+		(start 133.811653 36.886219)
+		(end 148.811653 41.886219)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "28740ac0-6c3e-4b6f-bbf3-43d0accf4f7f")
+	)
+	(gr_rect
+		(start 124.083435 44.30028)
+		(end 129.083435 49.30028)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "2acca2df-265e-4705-a5b6-6f42a4bb876a")
+	)
+	(gr_rect
+		(start 152.833435 89.90028)
+		(end 156.133435 95.90028)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "467eed1a-53cd-4283-ab75-786050df21e3")
+	)
+	(gr_rect
+		(start 119.880385 36.528402)
+		(end 124.880385 41.528402)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "4bc252a4-c55c-42b8-b4e2-648e8411a154")
+	)
+	(gr_rect
+		(start 145.383435 44.80028)
+		(end 150.383435 79.80028)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Eco1.User")
+		(uuid "6ae94828-91ac-4610-9d62-2b1879342175")
+	)
+	(gr_text "Top基板うら側のソケットを逃すように調整。"
 		(at 109.760068 32.956526 0)
 		(layer "Eco1.User")
 		(uuid "6c570c76-2520-4b27-999a-d157a5211713")
