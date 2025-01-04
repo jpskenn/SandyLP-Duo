@@ -4330,7 +4330,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "5d4086ce-3999-4aa8-98eb-9431c85a41cb")
-		(at 152.664851 45.783915)
+		(at 150.803908 45.744852)
 		(property "Reference" "REF**"
 			(at 0 0.5 0)
 			(layer "Cmts.User")
@@ -4662,7 +4662,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "99382b35-4c43-408f-8374-2031a3956f06")
-		(at 153.217912 73.437806)
+		(at 151.379269 72.691759)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(unlocked yes)
@@ -4975,7 +4975,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "9d7a31d6-e989-4ad5-851f-8334519d80e0")
-		(at 153.260164 63.047992)
+		(at 150.761661 62.739432)
 		(property "Reference" "REF**"
 			(at 0 0.5 0)
 			(layer "Cmts.User")
@@ -8141,7 +8141,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "ebf25be8-0dd5-42b7-88f9-a9d1f8054fb2")
-		(at 153.725917 85.537615)
+		(at 152.377287 85.821784)
 		(property "Reference" "REF**"
 			(at 0 0.5 0)
 			(layer "Cmts.User")
@@ -8518,7 +8518,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "07d3a529-c637-484a-a6e2-b058450d53a0")
-		(at 153.305222 85.537613 180)
+		(at 152.270744 85.479764 180)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(layer "Cmts.User")
@@ -9587,7 +9587,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "359c26f7-7a6c-4e28-bb43-44d1c2aae71f")
-		(at 153.217913 73.437808 180)
+		(at 151.431974 72.842495 180)
 		(property "Reference" "REF**"
 			(at 0 0.5 0)
 			(unlocked yes)
@@ -11669,7 +11669,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "81361ab0-1814-4cda-a833-0edeb4a81961")
-		(at 152.580357 45.783915 180)
+		(at 150.836661 45.458097 180)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(layer "Cmts.User")
@@ -11865,7 +11865,7 @@
 		)
 		(fp_arc
 			(start 0.7 3.345415)
-			(mid 0.662237 3.758478)
+			(mid 0.662236 3.758481)
 			(end 0.272339 3.9)
 			(stroke
 				(width 0.12)
@@ -11890,7 +11890,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "82ea0448-c24a-4010-ad2b-60af8d6973b5")
-		(at 153.17567 63.047992 180)
+		(at 150.794414 62.452677 180)
 		(property "Reference" "REF**"
 			(at 0 -0.5 0)
 			(layer "Cmts.User")
@@ -12086,7 +12086,7 @@
 		)
 		(fp_arc
 			(start 0.7 3.345415)
-			(mid 0.662237 3.758478)
+			(mid 0.662236 3.758481)
 			(end 0.272339 3.9)
 			(stroke
 				(width 0.12)
@@ -12823,11 +12823,11 @@
 	(footprint "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 		(layer "B.Cu")
 		(uuid "cfe5dd75-5788-4349-a6ea-349bb027d1b2")
-		(at 134.167901 38.909656 180)
+		(at 134.167901 38.909656)
 		(descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
 		(tags "test point THT pad")
 		(property "Reference" "T_R0"
-			(at 0 1.998 0)
+			(at 0 1.998 360)
 			(layer "B.SilkS")
 			(uuid "be77670c-a8e3-4895-812e-9d8d564bdd88")
 			(effects
@@ -12839,7 +12839,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 0 -2.05 0)
+			(at 0 -2.05 360)
 			(layer "B.Fab")
 			(uuid "66789736-179a-4f72-8d49-b7adbfa73d4d")
 			(effects
@@ -12851,7 +12851,7 @@
 			)
 		)
 		(property "Footprint" "locallib:TestPoint_THTPad_D2.0mm_Drill1.0mm"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -12865,7 +12865,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -12879,7 +12879,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -12920,7 +12920,7 @@
 			(uuid "a4811e3a-0ae6-43ff-988a-c0ceab02c7a7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 0)
+			(at 0 2 360)
 			(layer "B.Fab")
 			(uuid "a1905058-64b5-49e9-92ed-7bc5d0f50166")
 			(effects
@@ -12932,7 +12932,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 180)
+			(at 0 0)
 			(size 2 2)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -14212,7 +14212,7 @@
 		)
 		(fp_arc
 			(start 0.7 3.345415)
-			(mid 0.662236 3.758481)
+			(mid 0.662237 3.758478)
 			(end 0.272339 3.9)
 			(stroke
 				(width 0.12)
@@ -14234,8 +14234,8 @@
 		)
 	)
 	(gr_rect
-		(start 127.220935 64.80028)
-		(end 132.220935 69.80028)
+		(start 127.608435 64.80028)
+		(end 132.608435 69.80028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14245,8 +14245,8 @@
 		(uuid "3698d1f7-e443-4094-941e-bd1142655231")
 	)
 	(gr_rect
-		(start 108.220935 45.60028)
-		(end 113.220935 50.60028)
+		(start 108.608435 45.60028)
+		(end 113.608435 50.60028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14256,8 +14256,8 @@
 		(uuid "4f3da885-de4a-4657-9cb8-e8363b618966")
 	)
 	(gr_rect
-		(start 136.795935 83.80028)
-		(end 141.795935 88.80028)
+		(start 137.158435 83.80028)
+		(end 142.158435 88.80028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14289,8 +14289,8 @@
 		(uuid "184dc157-8d13-4993-a037-2b424f4da58b")
 	)
 	(gr_rect
-		(start 127.195935 64.80028)
-		(end 132.195935 69.80028)
+		(start 127.583435 64.80028)
+		(end 132.583435 69.80028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14300,8 +14300,8 @@
 		(uuid "3201b77e-767d-44b3-9bec-3d8922601fbd")
 	)
 	(gr_rect
-		(start 136.820935 83.80028)
-		(end 141.820935 88.80028)
+		(start 137.183435 83.80028)
+		(end 142.183435 88.80028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14311,8 +14311,8 @@
 		(uuid "c6661ac6-edd9-4d72-8a42-de0dae5e81a9")
 	)
 	(gr_rect
-		(start 108.195935 45.60028)
-		(end 113.195935 50.60028)
+		(start 108.583435 45.60028)
+		(end 113.583435 50.60028)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -14321,13 +14321,13 @@
 		(layer "F.SilkS")
 		(uuid "e27190fd-e18b-4582-bd14-3b96f4f6e161")
 	)
-	(gr_text "L 左 Back"
-		(at 142.983435 38.70028 0)
+	(gr_text "L Back"
+		(at 133.483435 49.30028 90)
 		(layer "B.SilkS" knockout)
 		(uuid "56014a43-4ff1-419e-8ac1-e182f9674465")
 		(effects
 			(font
-				(size 1.8 1.8)
+				(size 2 2)
 				(thickness 0.24)
 				(italic yes)
 			)
@@ -14335,7 +14335,7 @@
 		)
 	)
 	(gr_text "#SandyLP_Duo DN0010"
-		(at 149.183435 40.30028 90)
+		(at 147.783435 40.10028 90)
 		(layer "B.SilkS")
 		(uuid "f9c8c7b0-199c-475b-b458-de1a85834646")
 		(effects
@@ -14346,13 +14346,13 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "R 右 Back"
-		(at 142.583435 38.60028 0)
+	(gr_text "R Back"
+		(at 133.383435 49.70028 90)
 		(layer "F.SilkS" knockout)
 		(uuid "0cae2786-fd13-4541-a7a4-fe71bca486af")
 		(effects
 			(font
-				(size 1.8 1.8)
+				(size 2 2)
 				(thickness 0.24)
 				(italic yes)
 			)
