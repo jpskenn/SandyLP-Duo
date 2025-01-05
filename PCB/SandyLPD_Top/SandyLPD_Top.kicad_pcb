@@ -1185,7 +1185,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.4 -5.3)
+			(mid 1.399999 -5.299999)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -1556,7 +1556,7 @@
 		(at 129.405402 35.337781)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H3"
+		(property "Reference" "H4"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1869,7 +1869,7 @@
 		(at 147.860105 46.053415)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H4"
+		(property "Reference" "H5"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1990,7 +1990,7 @@
 			(uuid "f8cfc6e5-b785-492e-ac37-7b16cb547b5e")
 		)
 	)
-	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
 		(layer "F.Cu")
 		(uuid "97440431-f921-4f3f-847c-b1d35d0c4a94")
 		(at 147.264792 52.601858)
@@ -2000,7 +2000,7 @@
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "936c4b09-4f31-4299-a3f2-7281734bf95c")
+			(uuid "6f41b69d-e4a4-4dbd-a622-e0d50fb4b2de")
 			(effects
 				(font
 					(size 1 1)
@@ -2011,7 +2011,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "269f2ee7-aca2-424d-8f76-4556d8b15ffc")
+			(uuid "1677d670-086d-454e-bb2e-17c055db8de0")
 			(effects
 				(font
 					(size 1 1)
@@ -2019,11 +2019,11 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13a9adb3-44dc-492d-b137-479f201a8e6c")
+			(uuid "53551f75-b1fa-418c-8350-4a71c3d91768")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2035,7 +2035,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aba21d20-e412-479c-97c3-90e9c3d6542c")
+			(uuid "ceaee9cd-5d69-4e12-a421-99868d87eff1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2047,7 +2047,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "653e8bcc-8b1f-408b-a488-6dc0a56ca6b3")
+			(uuid "c0f1a7ee-ce3f-43c7-9101-c4acad6ee532")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2069,7 +2069,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "f9625dfc-e624-44e1-9207-861e791d7e35")
+			(uuid "7bfc7e38-13f7-4bfc-a074-fe558c8bd387")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2080,12 +2080,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "cb98625f-0b32-48df-a4ba-9255368897a7")
+			(uuid "aba579d2-5501-40f5-9278-5bcdbbccf51b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "e831ae80-5e68-4b94-a8c4-add0455f4193")
+			(uuid "7dd652c4-ad5a-46fb-bdaa-eacad17b9101")
 			(effects
 				(font
 					(size 1 1)
@@ -2102,10 +2102,33 @@
 			(net 1 "Top_col5")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "31e75e0d-e580-4459-aa9b-9cac210032e8")
+			(uuid "93dafcb2-977a-4706-b09e-18b8c77584e7")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
-	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
 		(layer "F.Cu")
 		(uuid "9ab4158b-0b94-4446-95e5-c8df2fc06cdc")
 		(at 123.452272 35.337781)
@@ -2115,7 +2138,7 @@
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5711d634-855c-46a0-9058-1ed6f5310933")
+			(uuid "69e9117c-a800-4103-9617-e78b281d2d7b")
 			(effects
 				(font
 					(size 1 1)
@@ -2126,7 +2149,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "938fd8bf-84a8-4e50-a366-735baabc1770")
+			(uuid "1d743400-d1fc-445d-9b31-703dce7d188a")
 			(effects
 				(font
 					(size 1 1)
@@ -2134,11 +2157,11 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f260ad2e-0a54-4288-aa2f-ed2f8817df54")
+			(uuid "8a3756c6-1f55-4b33-8498-2a2d1d0a90da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2150,7 +2173,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4facfd0f-a3fd-4bbd-9e4a-8e535eeaab8a")
+			(uuid "cc166a5b-e21a-43f7-ac6e-141dc80abedc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2162,7 +2185,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a746f11e-fe74-4c2d-b1fe-c2333869bb1f")
+			(uuid "a88e98df-d618-4832-ba85-7261e8d5b6c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2184,7 +2207,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "dda040fd-ede5-4d95-a12b-a53093cce393")
+			(uuid "28879b94-c229-405c-8e92-866e9dd6175f")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2195,12 +2218,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "702c24e2-5afd-4f30-bde7-a539c468903f")
+			(uuid "c03cee86-a2c2-4f8b-9034-dabfffacddd8")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "4484befe-cab5-4a90-9343-9f84845ededf")
+			(uuid "a4fd39fe-54d3-4790-8762-f43e16201497")
 			(effects
 				(font
 					(size 1 1)
@@ -2217,7 +2240,30 @@
 			(net 3 "Top_row0")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "b4eca31e-807a-492c-b838-686f21dd0de0")
+			(uuid "66ff8b79-a4f6-481b-80d0-270470293bef")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "locallib:Kailh_socket_ChocV2_small_#2pad_for_Reverse_no_hole"
@@ -3178,7 +3224,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -3221,17 +3267,17 @@
 			(uuid "7a916616-d077-4a70-be6a-6ee9588c57ca")
 		)
 	)
-	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
 		(layer "F.Cu")
 		(uuid "eaa87502-5d61-47dd-9462-2f3161a5d567")
 		(at 146.669479 35.337781)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "H5"
+		(property "Reference" "H3"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "653aa081-899d-4e8b-810d-807487779da9")
+			(uuid "6f36469a-6061-4eba-a1e2-d88e60272b0e")
 			(effects
 				(font
 					(size 1 1)
@@ -3242,7 +3288,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "5978a9dc-ccaf-4b21-b2a1-70efefb296a5")
+			(uuid "8969283d-fc1d-4deb-91cc-e2bd753591d4")
 			(effects
 				(font
 					(size 1 1)
@@ -3250,11 +3296,11 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5139058-953c-45dd-b66c-dbf4a5393013")
+			(uuid "48501854-0a01-4d4e-91d4-5679e73472a9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3266,7 +3312,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e75c4a44-7011-46a3-933d-0ceeb277faf1")
+			(uuid "3ac742e8-2a95-42ed-8f58-379cd3bbb0fe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3278,7 +3324,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a56fdb14-0076-4b8b-83d9-7169d53bf69f")
+			(uuid "3ddfa4ab-1275-4fc3-83d9-e368b1d6bcc3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3300,7 +3346,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "5f6b55f9-c579-48d5-9266-61d24405579e")
+			(uuid "b446b88f-9c1f-41d3-8c00-c2a0473592d3")
 		)
 		(fp_circle
 			(center 0 0)
@@ -3311,12 +3357,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "876a085c-8211-41a9-9cc3-89ecc087f434")
+			(uuid "91ac65d1-6190-422d-a9b2-8b80cdda42f0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "600a5c88-92b8-4e07-baba-6ea770c65fe0")
+			(uuid "fe3d9b84-bd77-4d53-bff3-99e9ac0c061b")
 			(effects
 				(font
 					(size 1 1)
@@ -3333,7 +3379,30 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "5f3aac2c-307f-4a2b-9f3f-6c4866ee716b")
+			(uuid "77b23577-ef56-4aae-823a-aa2f8123ee12")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "locallib:ICON_Screw_Long_Medium"
@@ -3555,7 +3624,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.4 -5.3)
+			(mid 1.399999 -5.299999)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
