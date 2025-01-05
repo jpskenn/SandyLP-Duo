@@ -26504,6 +26504,73 @@
 	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
+		(at 374.65 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0debd082-ab60-4c4b-a126-47f0199e4337")
+		(property "Reference" "#PWR010"
+			(at 374.65 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 374.65 37.1531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 374.65 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 374.65 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 374.65 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb78e41b-f5e3-402c-a4cd-98b1f83a4e3b")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_2")
+		(lib_id "power:GND")
 		(at 599.44 145.415 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29160,6 +29227,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 370.84 33.02 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "26ad6e7c-07ad-47c1-b77f-882fd670ce07")
+		(property "Reference" "JP1"
+			(at 370.84 27.9865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 370.84 30.4108 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "locallib:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm_no_Courtyard"
+			(at 370.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 370.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 370.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5de9f00a-d269-400f-8fad-33f07317c3e1")
+		)
+		(pin "1"
+			(uuid "e8c5f4ca-328d-4a62-9db9-d0e0073807ee")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 422.275 321.945 0)
 		(unit 1)
@@ -29371,6 +29506,73 @@
 			(project "SandyLP_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "H_mid_6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_2")
+		(lib_id "power:GND")
+		(at 646.43 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2939e5a7-e8f3-4158-98d5-730e9134e780")
+		(property "Reference" "#PWR065"
+			(at 646.43 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND_R"
+			(at 646.43 37.1531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 646.43 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 646.43 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 646.43 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6795e376-dc53-414b-960a-0e919faea46c")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -38284,6 +38486,74 @@
 			(project "SandyLPD_Base"
 				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
 					(reference "#PWR093")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 642.62 33.02 180)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "927e0088-c07a-4657-888f-2a4434150d98")
+		(property "Reference" "JP3"
+			(at 642.62 27.9865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 642.62 30.4108 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "locallib:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm_no_Courtyard"
+			(at 642.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 642.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 642.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "58f5c904-65b4-4c9f-97e4-90ac2aa0d68f")
+		)
+		(pin "1"
+			(uuid "5c636025-40d6-4e9e-a3b2-fe7ff16117f5")
+		)
+		(instances
+			(project "SandyLPD_Base"
+				(path "/a99ab643-cdc7-4f8c-8088-c1f4faa914d1"
+					(reference "JP3")
 					(unit 1)
 				)
 			)
