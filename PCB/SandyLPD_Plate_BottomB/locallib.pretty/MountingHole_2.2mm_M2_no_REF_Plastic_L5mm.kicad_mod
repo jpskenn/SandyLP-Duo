@@ -108,8 +108,7 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "75b224f0-3010-4e8c-bf32-f95a770c96d9")
 	)
-	(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-		(hide yes)
+	(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -117,18 +116,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
+			(xyz -180 -90 0)
 		)
 	)
 )

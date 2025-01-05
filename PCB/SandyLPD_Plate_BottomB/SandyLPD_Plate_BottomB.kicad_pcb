@@ -1323,7 +1323,7 @@
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "e1a6b4b1-e31a-406e-82b2-d7722bc28e7f")
+			(uuid "fd8dc475-258a-4458-a4b5-1db94157009c")
 			(effects
 				(font
 					(size 1 1)
@@ -1335,7 +1335,7 @@
 		(property "Value" "MountingHole"
 			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "c3747d70-6eb3-4052-9f6a-f0b4390c5a3e")
+			(uuid "85fbdee4-6c38-4b15-a14b-6e8d0897bab7")
 			(effects
 				(font
 					(size 1 1)
@@ -1349,7 +1349,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f0349696-827a-47dd-96f5-cdc963846696")
+			(uuid "aaf1fe05-c767-4e2a-90be-da6825a2910d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1363,7 +1363,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2cb41e5e-93c9-4206-a2c5-60a8797bd9e2")
+			(uuid "8bdc6cd3-a052-4f6b-8d15-88fcf3bedff3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1377,7 +1377,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "687a538f-809b-46d8-9a94-6f784825cb6b")
+			(uuid "4e77eaf5-2bf0-4f52-a427-6ea79d3eedb8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1414,7 +1414,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "6c149755-6283-452e-9b85-c3040cc47cee")
+			(uuid "aab3f7cf-23dc-4885-a6d8-d399a0d2e91c")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1425,12 +1425,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "c7fd72e5-1cec-48c5-ac12-46b7e57749e1")
+			(uuid "17268e6e-bed9-4d96-8b23-06e411d33188")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "f99b1404-e113-4b12-bbdc-35c3881940e5")
+			(uuid "b64d8d89-e694-46eb-8d5a-a04676ed0032")
 			(effects
 				(font
 					(size 1 1)
@@ -1444,10 +1444,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b6a28a46-af0b-4024-8abf-92cf0487fb1d")
+			(uuid "2a295fdf-b044-4c99-88e3-400f9fc4fbb5")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1455,18 +1454,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
@@ -1480,7 +1468,7 @@
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "a99a6c1a-872c-479b-b7ec-c54e7af33032")
+			(uuid "d26d5e0b-21ca-416e-8d58-ce8f548424ec")
 			(effects
 				(font
 					(size 1 1)
@@ -1492,7 +1480,7 @@
 		(property "Value" "MountingHole"
 			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "68f4ba7f-f886-49cd-912b-419cd4876634")
+			(uuid "160c9a68-163a-497e-a888-a9621df1d5a1")
 			(effects
 				(font
 					(size 1 1)
@@ -1506,7 +1494,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "dbca1b6d-cfe1-4499-b6de-f30f44b02dfa")
+			(uuid "91f8d89a-8c07-439f-9b6f-57b97a769062")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1520,7 +1508,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8375a944-3f51-42b1-88ed-36334b3cf5ce")
+			(uuid "9ab06218-d6dc-4ad9-bb90-eed007a4aa5a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1534,7 +1522,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9e7d8d00-8f6c-4410-8501-baa80333fe46")
+			(uuid "abb1c670-896c-474a-b852-a42b6f2e1271")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1571,7 +1559,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "ca56f6b1-bde9-4e73-a959-037b8ebb53e1")
+			(uuid "f68932b4-434b-4417-a307-5194f820c386")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1582,12 +1570,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "9315ff7e-211c-4514-8a1e-80ebc4fb9223")
+			(uuid "343b6ab8-e312-45ad-852d-66d80a538c86")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "eb5f2548-f88a-41cb-8495-c9a26624747a")
+			(uuid "8b5a754e-2cd8-48d4-95a1-ebb645a32dce")
 			(effects
 				(font
 					(size 1 1)
@@ -1601,10 +1589,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "37428624-0d59-4582-900e-b69f1738f09d")
+			(uuid "8c3c3684-c470-46f9-95d4-13aad5da459e")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1612,18 +1599,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
@@ -1637,7 +1613,7 @@
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "cc2b4a2e-d2dc-46c3-86aa-26a356be9d1e")
+			(uuid "1d21e273-2ae9-493b-a2da-6bd3f31ca9b9")
 			(effects
 				(font
 					(size 1 1)
@@ -1649,7 +1625,7 @@
 		(property "Value" "MountingHole"
 			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "4d14a694-8945-44c6-b598-0fa466ca7142")
+			(uuid "77bc037d-3265-410f-9cf3-acada9393d99")
 			(effects
 				(font
 					(size 1 1)
@@ -1663,7 +1639,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9dd32914-48f5-465d-bf0c-6e91988ebf31")
+			(uuid "198d2a8a-cdb5-48e1-ba16-80b284bc811f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1677,7 +1653,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "19bffdf1-144e-4032-a0d3-1e6779878c45")
+			(uuid "b0fc84d4-8e81-4265-acc9-aba6679fa710")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1691,7 +1667,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ad6879a1-127e-4529-9986-0bcaeaa27ab3")
+			(uuid "af15139b-d9e6-49dc-8159-786a520d7df0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1728,7 +1704,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "904e3509-d465-40c7-b6f4-bc4c3f96f5a9")
+			(uuid "2de9cec0-5160-47f8-bf4c-0a7c0cae8240")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1739,12 +1715,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "26671dd1-18a6-41c8-88f0-f291b32c0f79")
+			(uuid "ce5519eb-5dba-4b7d-90f4-88f7b133fd6e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "995fbaec-c212-48e1-8f2b-420eaab5f1c4")
+			(uuid "dee507ae-8cb3-474a-8fe0-85277530c046")
 			(effects
 				(font
 					(size 1 1)
@@ -1758,10 +1734,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "6a67222e-b922-4a89-aa18-2eab61973bcd")
+			(uuid "5a49383d-1f7e-40c0-a15e-248f3dbb9ba2")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1769,18 +1744,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
@@ -1791,10 +1755,10 @@
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
 		(property "Reference" "H_mid_1"
-			(at 0 3.2 360)
+			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "e7e294c7-4482-4947-bc8e-c6358aece4e4")
+			(uuid "9d3d7079-7a10-49dc-885c-eb5972b03660")
 			(effects
 				(font
 					(size 1 1)
@@ -1804,9 +1768,9 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 -3.2 360)
+			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "0c8822a0-681b-4152-91bc-5fa0ec5ecac2")
+			(uuid "b5798e3d-172d-4ccf-985b-d488555def24")
 			(effects
 				(font
 					(size 1 1)
@@ -1820,7 +1784,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e7a6cf14-bd6a-49c4-8db6-c0181ea03399")
+			(uuid "120d1a6b-b026-4a85-9a3f-856dfb9e4c91")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1834,7 +1798,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f240a2d0-dd87-4f9e-87e8-23618a3c9715")
+			(uuid "993dfb6c-1b78-4bd4-a9cd-6df9ae5b85c4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1848,7 +1812,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "af1ef525-ab40-4891-8fd5-189c14da690b")
+			(uuid "d991c5e2-9d56-4029-bcb7-497c38b6796e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1885,7 +1849,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "db60cd8d-3378-4343-9b6e-e15504eda1d9")
+			(uuid "d18ee384-2b9a-4cfc-946c-71d88d26c091")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1896,12 +1860,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "ab6637a0-8a2e-453c-a4d1-ba9d2ccd1bb9")
+			(uuid "99a46456-4eb3-47c3-918d-248406fc37f9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "9c653584-e198-488f-a3b9-cc26953adf62")
+			(uuid "8fbfd1ad-4a57-48e7-94ff-f58e81911b17")
 			(effects
 				(font
 					(size 1 1)
@@ -1915,10 +1879,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "a56c5cbe-97ac-4596-a11f-337903e2e5fd")
+			(uuid "9dd54901-eb71-4d3b-8b70-2cc6e1a5d26d")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1926,18 +1889,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
@@ -1951,7 +1903,7 @@
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "f332d97d-83a3-492b-a5f6-c9cd403f1f46")
+			(uuid "8f0d05e3-b24b-4f7a-81eb-aa544718f4e0")
 			(effects
 				(font
 					(size 1 1)
@@ -1963,7 +1915,7 @@
 		(property "Value" "MountingHole"
 			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "1c4d5cd6-6676-4579-a4b2-aba4a8d45bba")
+			(uuid "022989c3-8f97-402e-aa68-1e5a3388abac")
 			(effects
 				(font
 					(size 1 1)
@@ -1977,7 +1929,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b5207c6d-4ef4-49ac-b11c-18e36fd46c8d")
+			(uuid "208fba8b-6eee-4367-ba9a-9ee21a6dea47")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1991,7 +1943,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "59231ae6-d43d-419d-b597-fcea22221626")
+			(uuid "bd6530b6-3e9e-411b-9bcd-e644c828b548")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2005,7 +1957,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8f2083ec-29bd-415d-8440-abc083cd34fa")
+			(uuid "2247c074-8261-4b21-89e3-8e571e75daa1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2042,7 +1994,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "b4064574-93c7-44be-bd41-07200a6318c5")
+			(uuid "a0dde4c0-adae-4fb7-a3d8-6baada151836")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2053,12 +2005,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "37b35849-71c9-4261-a478-10fbe1f27599")
+			(uuid "fa3e6f01-2d9d-4c3f-af12-dfc637d04e83")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "6f43df5b-79a9-494b-9028-0b6c6ebfa68f")
+			(uuid "99acafd5-5195-48b0-afbe-cce5ac076891")
 			(effects
 				(font
 					(size 1 1)
@@ -2072,10 +2024,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c91e09da-965f-4d95-bf5d-1e81a305d59b")
+			(uuid "47f23bfd-56ce-4b76-b9c9-11869f99c6bd")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2083,18 +2034,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
@@ -2108,7 +2048,7 @@
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "36dc5e1a-f075-462a-994d-ad4a3e3e5cbc")
+			(uuid "f780e2a7-9c39-484f-a1a9-99e04ca4eb3f")
 			(effects
 				(font
 					(size 1 1)
@@ -2120,7 +2060,7 @@
 		(property "Value" "MountingHole"
 			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "62c28066-41c8-42c1-9513-67a303e8d15c")
+			(uuid "69e6e8ba-5281-433c-a6de-ca8487a190a9")
 			(effects
 				(font
 					(size 1 1)
@@ -2134,7 +2074,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6014bac6-56d4-4703-b453-8483f84be4ff")
+			(uuid "758eb982-9780-4d24-b16f-7a8ac3ea8784")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2148,7 +2088,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a3b3c1e7-8459-41e3-98fe-560e43aaab5e")
+			(uuid "b52f506d-d405-47cf-a7d7-1a03fed894db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2162,7 +2102,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7a44c556-df41-4da9-ae21-f69877cb9c46")
+			(uuid "3bc9ab5a-f496-4cf4-8538-eb61c16e8cc3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2199,7 +2139,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "db7bb6a7-9b99-4c7b-bcf6-c4d8787ac462")
+			(uuid "222dd7f4-37a7-4e10-b2bf-33f2a2ef4b2a")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2210,12 +2150,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "9355aa85-8548-4cb9-9f85-3d83282e09e0")
+			(uuid "9f4f33bd-25b8-4ebd-8b4f-3c4da1cca847")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "1beb9f6a-1954-405f-a03f-83d6c9d0370f")
+			(uuid "224b9bf5-39fd-4f3a-bae9-0c199d8e32ad")
 			(effects
 				(font
 					(size 1 1)
@@ -2229,10 +2169,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f35c1223-4bfc-4192-bf5b-d4cbd7fce30d")
+			(uuid "f65c71cf-1cf3-4fca-b668-38cd5ab04a56")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2240,18 +2179,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
@@ -2265,7 +2193,7 @@
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "286efcf5-5aa7-4270-8712-5ddc6bf7cd3f")
+			(uuid "78a4a4cd-ebc1-416e-b80f-9e48373624cf")
 			(effects
 				(font
 					(size 1 1)
@@ -2277,7 +2205,7 @@
 		(property "Value" "MountingHole"
 			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "c7f0b2d8-0d48-4f48-b8a4-43ac7eb861dd")
+			(uuid "8ab6fbf6-a6ee-4ea6-b3d2-7a0203d5896a")
 			(effects
 				(font
 					(size 1 1)
@@ -2291,7 +2219,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3c4fa791-7592-4798-9015-54f2859cc728")
+			(uuid "73558732-1b43-4796-98a4-3518e3989aea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2305,7 +2233,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c2f165e8-d3d9-45c0-9738-3b0c8cdb2bd1")
+			(uuid "a6611e28-f03b-4729-8d11-1d5d0bc16aef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2319,7 +2247,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "63a46da2-e47e-40ae-ae12-2830d99023f3")
+			(uuid "d074a75c-edc7-4b7a-8a21-260024f6ffe9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2356,7 +2284,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "6d1cdf23-ea2e-4695-a79b-41d6c3208c2a")
+			(uuid "27275e80-122c-433b-92dd-3d3ceedfa719")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2367,12 +2295,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "6f2b1e01-43e7-44b7-a196-b5342b0eee30")
+			(uuid "033b6733-c4de-49a3-b7e0-809f51507d98")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "b3391834-0c86-49bf-8b5e-4885e9795993")
+			(uuid "36e2083b-44f1-49bf-bc24-a214f4d24e21")
 			(effects
 				(font
 					(size 1 1)
@@ -2386,10 +2314,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "35fc87ed-72a5-43de-b780-3978a7127fa1")
+			(uuid "8b44cc5b-889b-460a-889b-99e194899cb2")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2397,18 +2324,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
@@ -2422,7 +2338,7 @@
 			(at 0 3.2 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "5d1b127d-3333-4739-904d-907e4ad76217")
+			(uuid "05476c81-143e-46b6-8faa-7006aa491bf9")
 			(effects
 				(font
 					(size 1 1)
@@ -2434,7 +2350,7 @@
 		(property "Value" "MountingHole"
 			(at 0 -3.2 0)
 			(layer "B.Fab")
-			(uuid "aebe9bcb-201c-4ea2-bf42-85e4f209dfea")
+			(uuid "56cc6aa1-7b7e-42b0-8f07-5ce188797b37")
 			(effects
 				(font
 					(size 1 1)
@@ -2448,7 +2364,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "499adf3c-8223-4f1e-b345-dcd340fed79a")
+			(uuid "ff3e00e8-6298-447f-9dc7-d0ae558879e3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2462,7 +2378,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1e2d7fc2-9853-4de3-919f-13c529a07304")
+			(uuid "b2ff6790-24b6-4251-baaa-d1b1f10d3358")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2476,7 +2392,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e02db46d-08bb-4ade-9e99-ae161970d437")
+			(uuid "3af524e4-8d81-4278-afce-4abae17f053b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2513,7 +2429,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "a7b434ec-ac63-47e3-9d8f-e0dbfb1df0e3")
+			(uuid "edd10ea6-cfff-4c73-8659-68bf5e80f97e")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2524,12 +2440,12 @@
 			)
 			(fill none)
 			(layer "B.CrtYd")
-			(uuid "8e6b3d4d-3718-49bc-92da-2b593adbaf47")
+			(uuid "b80842e7-95b3-4583-a84b-40aa20cc5229")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "c6b73880-b082-4735-a451-40e9d200b7bd")
+			(uuid "63ac471e-8e1c-4aa2-a1e7-33816eb09615")
 			(effects
 				(font
 					(size 1 1)
@@ -2543,10 +2459,9 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "70319a5c-9afb-4e4e-959a-9c5a203d0251")
+			(uuid "9685cfee-7fef-4e2a-aab3-9f8cb66c2f31")
 		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
+		(model "${KIPRJMOD}/locallib.pretty/SPA-M2-5-P.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2554,18 +2469,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -180 -90 0)
 			)
 		)
 	)
