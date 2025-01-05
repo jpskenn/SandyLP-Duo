@@ -118,906 +118,6 @@
 		)
 	)
 	(net 0 "")
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "1863df6e-f9ac-4506-94e3-ed651b9d3948")
-		(at 150.836667 111.537849)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_btm_4"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e1a6b4b1-e31a-406e-82b2-d7722bc28e7f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "c3747d70-6eb3-4052-9f6a-f0b4390c5a3e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f0349696-827a-47dd-96f5-cdc963846696")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2cb41e5e-93c9-4206-a2c5-60a8797bd9e2")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "687a538f-809b-46d8-9a94-6f784825cb6b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "66d33d46-bceb-4397-89d5-f4275664416e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/425da99e-8037-4ea9-94a2-f9354cb5e32f")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "6c149755-6283-452e-9b85-c3040cc47cee")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "c7fd72e5-1cec-48c5-ac12-46b7e57749e1")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "f99b1404-e113-4b12-bbdc-35c3881940e5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "b6a28a46-af0b-4024-8abf-92cf0487fb1d")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "19b7478d-4912-44a1-9da3-f9b4b53d32c8")
-		(at 32.964693 111.537849)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_btm_3"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a99a6c1a-872c-479b-b7ec-c54e7af33032")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "68f4ba7f-f886-49cd-912b-419cd4876634")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dbca1b6d-cfe1-4499-b6de-f30f44b02dfa")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8375a944-3f51-42b1-88ed-36334b3cf5ce")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9e7d8d00-8f6c-4410-8501-baa80333fe46")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4135d8e8-6e42-43ee-89ec-d04af0ed3316")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/88c8bac8-6f95-4e92-98af-290f62a2b538")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "ca56f6b1-bde9-4e73-a959-037b8ebb53e1")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "9315ff7e-211c-4514-8a1e-80ebc4fb9223")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "eb5f2548-f88a-41cb-8495-c9a26624747a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "37428624-0d59-4582-900e-b69f1738f09d")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "1ad34334-bb74-46cf-87bd-721a6b3f03fb")
-		(at 150.836667 52.601502)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_mid_20"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "cc2b4a2e-d2dc-46c3-86aa-26a356be9d1e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "4d14a694-8945-44c6-b598-0fa466ca7142")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9dd32914-48f5-465d-bf0c-6e91988ebf31")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "19bffdf1-144e-4032-a0d3-1e6779878c45")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ad6879a1-127e-4529-9986-0bcaeaa27ab3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3d339e50-0ebf-4ef9-852a-adaec52120da")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/6eb991dc-790f-46c1-83a7-864570e0030f")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "904e3509-d465-40c7-b6f4-bc4c3f96f5a9")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "26671dd1-18a6-41c8-88f0-f291b32c0f79")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "995fbaec-c212-48e1-8f2b-420eaab5f1c4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "6a67222e-b922-4a89-aa18-2eab61973bcd")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "4958676b-0580-41b2-a689-7682d3e7447c")
-		(at 32.964693 35.33742 180)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_mid_1"
-			(at 0 -3.2 180)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e7e294c7-4482-4947-bc8e-c6358aece4e4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 180)
-			(layer "F.Fab")
-			(uuid "0c8822a0-681b-4152-91bc-5fa0ec5ecac2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e7a6cf14-bd6a-49c4-8db6-c0181ea03399")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f240a2d0-dd87-4f9e-87e8-23618a3c9715")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "af1ef525-ab40-4891-8fd5-189c14da690b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "68d9d6d5-a910-496f-bda5-f7e95c465aa8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/082eab63-1d50-4cd6-92cd-cc44599ab572")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "db60cd8d-3378-4343-9b6e-e15504eda1d9")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "ab6637a0-8a2e-453c-a4d1-ba9d2ccd1bb9")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(uuid "9c653584-e198-488f-a3b9-cc26953adf62")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0 180)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "a56c5cbe-97ac-4596-a11f-337903e2e5fd")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "599dc968-9e37-40e7-8c61-0e12de5bce83")
-		(at 66.302221 74.628443)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_btm_1"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "f332d97d-83a3-492b-a5f6-c9cd403f1f46")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "1c4d5cd6-6676-4579-a4b2-aba4a8d45bba")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b5207c6d-4ef4-49ac-b11c-18e36fd46c8d")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "59231ae6-d43d-419d-b597-fcea22221626")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f2083ec-29bd-415d-8440-abc083cd34fa")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "848e4b05-77c2-485e-b35e-c1cf891626dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/c7bb90d7-3762-4cbb-b53c-26b41d7e4ab0")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "b4064574-93c7-44be-bd41-07200a6318c5")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "37b35849-71c9-4261-a478-10fbe1f27599")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "6f43df5b-79a9-494b-9028-0b6c6ebfa68f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "c91e09da-965f-4d95-bf5d-1e81a305d59b")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "5f7550b7-7fb1-430d-ba70-89fcb9fcb83c")
-		(at 150.241354 35.337425)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_mid_19"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "36dc5e1a-f075-462a-994d-ad4a3e3e5cbc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "62c28066-41c8-42c1-9513-67a303e8d15c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6014bac6-56d4-4703-b453-8483f84be4ff")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a3b3c1e7-8459-41e3-98fe-560e43aaab5e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7a44c556-df41-4da9-ae21-f69877cb9c46")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a4577570-b0fd-4a6f-8963-91be0c103763")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/fa48fd36-c798-4e66-8735-481ec5480d29")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "db7bb6a7-9b99-4c7b-bcf6-c4d8787ac462")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "9355aa85-8548-4cb9-9f85-3d83282e09e0")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "1beb9f6a-1954-405f-a03f-83d6c9d0370f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "f35c1223-4bfc-4192-bf5b-d4cbd7fce30d")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "locallib:SandyLP-Duo_outline_BottomB"
 		(locked yes)
 		(layer "F.Cu")
@@ -1954,156 +1054,6 @@
 			)
 		)
 	)
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "a2f773ba-2d97-4816-b173-03ee56b928ef")
-		(at 140.121011 74.628083)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_mid_15"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "286efcf5-5aa7-4270-8712-5ddc6bf7cd3f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "c7f0b2d8-0d48-4f48-b8a4-43ac7eb861dd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3c4fa791-7592-4798-9015-54f2859cc728")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c2f165e8-d3d9-45c0-9738-3b0c8cdb2bd1")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "63a46da2-e47e-40ae-ae12-2830d99023f3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "946faeb2-56fb-4892-a5a1-d55e11ff1d10")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/8a98323f-a98f-4080-a100-256e2b015549")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "6d1cdf23-ea2e-4695-a79b-41d6c3208c2a")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "6f2b1e01-43e7-44b7-a196-b5342b0eee30")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "b3391834-0c86-49bf-8b5e-4885e9795993")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "35fc87ed-72a5-43de-b780-3978a7127fa1")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "locallib:ICON_USB"
 		(locked yes)
 		(layer "F.Cu")
@@ -2229,156 +1179,6 @@
 			(fill solid)
 			(layer "F.SilkS")
 			(uuid "78a901ae-76bf-4b46-8a88-a6f5c9a12c9e")
-		)
-	)
-	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-		(layer "F.Cu")
-		(uuid "d3dfefb4-280d-475a-bb76-938763a46462")
-		(at 127.024147 35.337425)
-		(descr "Mounting Hole 2.2mm, no annular, M2")
-		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "H_mid_21"
-			(at 0 -3.2 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5d1b127d-3333-4739-904d-907e4ad76217")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 0 3.2 0)
-			(layer "F.Fab")
-			(uuid "aebe9bcb-201c-4ea2-bf42-85e4f209dfea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "499adf3c-8223-4f1e-b345-dcd340fed79a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1e2d7fc2-9853-4de3-919f-13c529a07304")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e02db46d-08bb-4ade-9e99-ae161970d437")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC-Reserve" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d2ccf9ee-f791-4e1d-ac9a-365a83bd7e14")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "MountingHole*")
-		(path "/1fc81e9e-ef90-4b42-89d4-cb103d50eb87")
-		(sheetname "ルート")
-		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_circle
-			(center 0 0)
-			(end 2.2 0)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(fill none)
-			(layer "Cmts.User")
-			(uuid "a7b434ec-ac63-47e3-9d8f-e0dbfb1df0e3")
-		)
-		(fp_circle
-			(center 0 0)
-			(end 2.45 0)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill none)
-			(layer "F.CrtYd")
-			(uuid "8e6b3d4d-3718-49bc-92da-2b593adbaf47")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "c6b73880-b082-4735-a451-40e9d200b7bd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "70319a5c-9afb-4e4e-959a-9c5a203d0251")
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
 		)
 	)
 	(footprint "locallib:ICON_USB"
@@ -2511,6 +1311,1262 @@
 			(fill solid)
 			(layer "B.SilkS")
 			(uuid "909a49de-199c-4d53-bd36-fc547ddd6b48")
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "1863df6e-f9ac-4506-94e3-ed651b9d3948")
+		(at 150.836667 111.537849 180)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_btm_4"
+			(at 0 3.2 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "e1a6b4b1-e31a-406e-82b2-d7722bc28e7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 0)
+			(layer "B.Fab")
+			(uuid "c3747d70-6eb3-4052-9f6a-f0b4390c5a3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f0349696-827a-47dd-96f5-cdc963846696")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2cb41e5e-93c9-4206-a2c5-60a8797bd9e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "687a538f-809b-46d8-9a94-6f784825cb6b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66d33d46-bceb-4397-89d5-f4275664416e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/425da99e-8037-4ea9-94a2-f9354cb5e32f")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "6c149755-6283-452e-9b85-c3040cc47cee")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "c7fd72e5-1cec-48c5-ac12-46b7e57749e1")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "f99b1404-e113-4b12-bbdc-35c3881940e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0 180)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "b6a28a46-af0b-4024-8abf-92cf0487fb1d")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "19b7478d-4912-44a1-9da3-f9b4b53d32c8")
+		(at 32.964693 111.537849 180)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_btm_3"
+			(at 0 3.2 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "a99a6c1a-872c-479b-b7ec-c54e7af33032")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 0)
+			(layer "B.Fab")
+			(uuid "68f4ba7f-f886-49cd-912b-419cd4876634")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dbca1b6d-cfe1-4499-b6de-f30f44b02dfa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8375a944-3f51-42b1-88ed-36334b3cf5ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9e7d8d00-8f6c-4410-8501-baa80333fe46")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4135d8e8-6e42-43ee-89ec-d04af0ed3316")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/88c8bac8-6f95-4e92-98af-290f62a2b538")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "ca56f6b1-bde9-4e73-a959-037b8ebb53e1")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "9315ff7e-211c-4514-8a1e-80ebc4fb9223")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "eb5f2548-f88a-41cb-8495-c9a26624747a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0 180)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "37428624-0d59-4582-900e-b69f1738f09d")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "1ad34334-bb74-46cf-87bd-721a6b3f03fb")
+		(at 150.836667 52.601502 180)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_mid_20"
+			(at 0 3.2 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "cc2b4a2e-d2dc-46c3-86aa-26a356be9d1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 0)
+			(layer "B.Fab")
+			(uuid "4d14a694-8945-44c6-b598-0fa466ca7142")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9dd32914-48f5-465d-bf0c-6e91988ebf31")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "19bffdf1-144e-4032-a0d3-1e6779878c45")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ad6879a1-127e-4529-9986-0bcaeaa27ab3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3d339e50-0ebf-4ef9-852a-adaec52120da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/6eb991dc-790f-46c1-83a7-864570e0030f")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "904e3509-d465-40c7-b6f4-bc4c3f96f5a9")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "26671dd1-18a6-41c8-88f0-f291b32c0f79")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "995fbaec-c212-48e1-8f2b-420eaab5f1c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0 180)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "6a67222e-b922-4a89-aa18-2eab61973bcd")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "4958676b-0580-41b2-a689-7682d3e7447c")
+		(at 32.964693 35.33742)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_mid_1"
+			(at 0 3.2 360)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "e7e294c7-4482-4947-bc8e-c6358aece4e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 360)
+			(layer "B.Fab")
+			(uuid "0c8822a0-681b-4152-91bc-5fa0ec5ecac2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e7a6cf14-bd6a-49c4-8db6-c0181ea03399")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f240a2d0-dd87-4f9e-87e8-23618a3c9715")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af1ef525-ab40-4891-8fd5-189c14da690b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "68d9d6d5-a910-496f-bda5-f7e95c465aa8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/082eab63-1d50-4cd6-92cd-cc44599ab572")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "db60cd8d-3378-4343-9b6e-e15504eda1d9")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "ab6637a0-8a2e-453c-a4d1-ba9d2ccd1bb9")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 360)
+			(layer "B.Fab")
+			(uuid "9c653584-e198-488f-a3b9-cc26953adf62")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "a56c5cbe-97ac-4596-a11f-337903e2e5fd")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "599dc968-9e37-40e7-8c61-0e12de5bce83")
+		(at 66.302221 74.628443 180)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_btm_1"
+			(at 0 3.2 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "f332d97d-83a3-492b-a5f6-c9cd403f1f46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 0)
+			(layer "B.Fab")
+			(uuid "1c4d5cd6-6676-4579-a4b2-aba4a8d45bba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b5207c6d-4ef4-49ac-b11c-18e36fd46c8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "59231ae6-d43d-419d-b597-fcea22221626")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8f2083ec-29bd-415d-8440-abc083cd34fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "848e4b05-77c2-485e-b35e-c1cf891626dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/c7bb90d7-3762-4cbb-b53c-26b41d7e4ab0")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "b4064574-93c7-44be-bd41-07200a6318c5")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "37b35849-71c9-4261-a478-10fbe1f27599")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "6f43df5b-79a9-494b-9028-0b6c6ebfa68f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0 180)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "c91e09da-965f-4d95-bf5d-1e81a305d59b")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "5f7550b7-7fb1-430d-ba70-89fcb9fcb83c")
+		(at 150.241354 35.337425 180)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_mid_19"
+			(at 0 3.2 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "36dc5e1a-f075-462a-994d-ad4a3e3e5cbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 0)
+			(layer "B.Fab")
+			(uuid "62c28066-41c8-42c1-9513-67a303e8d15c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6014bac6-56d4-4703-b453-8483f84be4ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a3b3c1e7-8459-41e3-98fe-560e43aaab5e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7a44c556-df41-4da9-ae21-f69877cb9c46")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a4577570-b0fd-4a6f-8963-91be0c103763")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/fa48fd36-c798-4e66-8735-481ec5480d29")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "db7bb6a7-9b99-4c7b-bcf6-c4d8787ac462")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "9355aa85-8548-4cb9-9f85-3d83282e09e0")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "1beb9f6a-1954-405f-a03f-83d6c9d0370f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0 180)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "f35c1223-4bfc-4192-bf5b-d4cbd7fce30d")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "a2f773ba-2d97-4816-b173-03ee56b928ef")
+		(at 140.121011 74.628083 180)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_mid_15"
+			(at 0 3.2 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "286efcf5-5aa7-4270-8712-5ddc6bf7cd3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 0)
+			(layer "B.Fab")
+			(uuid "c7f0b2d8-0d48-4f48-b8a4-43ac7eb861dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c4fa791-7592-4798-9015-54f2859cc728")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c2f165e8-d3d9-45c0-9738-3b0c8cdb2bd1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63a46da2-e47e-40ae-ae12-2830d99023f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "946faeb2-56fb-4892-a5a1-d55e11ff1d10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/8a98323f-a98f-4080-a100-256e2b015549")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "6d1cdf23-ea2e-4695-a79b-41d6c3208c2a")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "6f2b1e01-43e7-44b7-a196-b5342b0eee30")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "b3391834-0c86-49bf-8b5e-4885e9795993")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0 180)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "35fc87ed-72a5-43de-b780-3978a7127fa1")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+		(layer "B.Cu")
+		(uuid "d3dfefb4-280d-475a-bb76-938763a46462")
+		(at 127.024147 35.337425 180)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "H_mid_21"
+			(at 0 3.2 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "5d1b127d-3333-4739-904d-907e4ad76217")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 -3.2 0)
+			(layer "B.Fab")
+			(uuid "aebe9bcb-201c-4ea2-bf42-85e4f209dfea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_no_REF_Plastic_L5mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "499adf3c-8223-4f1e-b345-dcd340fed79a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1e2d7fc2-9853-4de3-919f-13c529a07304")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e02db46d-08bb-4ade-9e99-ae161970d437")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC-Reserve" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2ccf9ee-f791-4e1d-ac9a-365a83bd7e14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/1fc81e9e-ef90-4b42-89d4-cb103d50eb87")
+		(sheetname "ルート")
+		(sheetfile "SandyLPD_Plate_BottomB.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "a7b434ec-ac63-47e3-9d8f-e0dbfb1df0e3")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "B.CrtYd")
+			(uuid "8e6b3d4d-3718-49bc-92da-2b593adbaf47")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(uuid "c6b73880-b082-4735-a451-40e9d200b7bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0 180)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "70319a5c-9afb-4e4e-959a-9c5a203d0251")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_203.STEP"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/CSPPNR-RENY-M2-5_214.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(gr_rect
