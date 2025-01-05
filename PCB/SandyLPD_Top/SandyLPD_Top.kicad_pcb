@@ -1185,7 +1185,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -1550,7 +1550,7 @@
 			)
 		)
 	)
-	(footprint "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+	(footprint "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 		(layer "F.Cu")
 		(uuid "557c9e1a-3fc0-4bed-809a-fbb322133674")
 		(at 129.405402 35.337781)
@@ -1560,7 +1560,7 @@
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "36dc2569-ed86-4bb4-80ab-e275ef68afda")
+			(uuid "4b354dbb-17d8-46fa-9ea6-a9fe4a8dc1d1")
 			(effects
 				(font
 					(size 1 1)
@@ -1571,7 +1571,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "41f05246-efef-495c-9d19-dd433e88e2eb")
+			(uuid "95f7a8bf-94f5-4642-9e89-fbd457edc817")
 			(effects
 				(font
 					(size 1 1)
@@ -1579,12 +1579,12 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "01fbd911-5421-4100-a288-e77e7a195cfd")
+			(uuid "40780836-653b-44c0-ad1e-e61b9bc33b87")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1597,7 +1597,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7a1cd2c-f8da-46d2-a498-99bad246721b")
+			(uuid "2d63fe56-810f-4e54-be9a-da54bd21f4d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1610,7 +1610,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80859df9-b7e3-48ff-8ba9-098f5c75113d")
+			(uuid "ec0ed57d-cefe-4970-a028-fa78064f2824")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1632,7 +1632,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "4e25ae3a-2b05-492d-b8dc-16529e4a5200")
+			(uuid "77d65a61-9f21-4f6b-82a9-ddf9ec652dfc")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1643,12 +1643,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b1021041-06a6-4cbd-a1cc-625c30bb628d")
+			(uuid "0b136a4e-5d15-4252-84d4-c44d62a6d951")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "04d5d750-468a-40ed-9e48-752a47b4374f")
+			(uuid "0f5790c0-c516-4be1-938e-d6cb01b1a775")
 			(effects
 				(font
 					(size 1 1)
@@ -1660,13 +1660,13 @@
 			(at 0 0)
 			(size 4.4 4.4)
 			(layers "F.Cu" "F.Mask")
-			(uuid "68713ab7-5e28-4efc-8c0f-9198325cc83d")
+			(uuid "8348c238-2112-4c06-97f3-a8ce46068d0d")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 4.4 4.4)
 			(layers "B.Cu" "B.Mask")
-			(uuid "94cc31de-968b-46fb-9fe6-a79a6526ec35")
+			(uuid "3f935e7e-3ea8-43a1-9b6a-6296ffbde8ca")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -1674,7 +1674,19 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "23a344e9-0bbf-4faa-97f7-819101ca44f4")
+			(uuid "4711a907-c54e-4e41-adff-2df5831d2cad")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/ThroughHole-Tap_THC-0.8-1.0-2-Fusion.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "locallib:ICON_Through-hole_Tap"
@@ -1863,7 +1875,7 @@
 			)
 		)
 	)
-	(footprint "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+	(footprint "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 		(layer "F.Cu")
 		(uuid "79824275-8ffd-4afa-89fb-bcb64c654c13")
 		(at 147.860105 46.053415)
@@ -1873,7 +1885,7 @@
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d28f7c72-18d7-492f-962c-bc0a2ebb1b4a")
+			(uuid "4d573aa4-fdab-4ce6-963c-00626b84b089")
 			(effects
 				(font
 					(size 1 1)
@@ -1884,7 +1896,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "65f8c101-c28e-468a-9b69-a31e96becaa1")
+			(uuid "9e6654fb-e8a5-4912-9cbe-0855efd5f213")
 			(effects
 				(font
 					(size 1 1)
@@ -1892,12 +1904,12 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bacb8af7-b0bc-4607-8483-a73d88b46b8a")
+			(uuid "c2b0d90a-c4fb-4f2f-b576-3cf9a76b2e58")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1910,7 +1922,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9ecd2984-3777-4f36-b2c3-e538adf53c86")
+			(uuid "eed22983-3a58-40fc-acb5-6f70ee3b4446")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1923,7 +1935,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "daa3035c-440a-4849-8b3b-adc96b22ea1b")
+			(uuid "1fa395c0-cb14-4a00-a7ea-acd68562b0c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1945,7 +1957,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "669df1d5-bd9d-494c-99b6-d30abd134924")
+			(uuid "ac2cf8d1-965a-4702-8826-1ae0dd7d50b8")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1956,12 +1968,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "8c405a96-075d-42c8-a90c-004daf5c9183")
+			(uuid "a9bd9817-04c0-4ccd-ad0e-053c2e556f84")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "6bb9ad68-940a-4c93-a96b-61dc166511fd")
+			(uuid "543f825d-c5a5-4285-aa66-1feb59d11a5c")
 			(effects
 				(font
 					(size 1 1)
@@ -1973,13 +1985,13 @@
 			(at 0 0)
 			(size 4.4 4.4)
 			(layers "F.Cu" "F.Mask")
-			(uuid "51eb6aef-e6e3-4edf-af28-bf5b397b44a8")
+			(uuid "e0b118da-e831-4449-a004-d266259b8369")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 4.4 4.4)
 			(layers "B.Cu" "B.Mask")
-			(uuid "b4aeebf1-e082-43bd-b897-3b1702edc410")
+			(uuid "1baca818-5ba1-4d1b-aae9-9df3f3b591b6")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -1987,10 +1999,22 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "f8cfc6e5-b785-492e-ac37-7b16cb547b5e")
+			(uuid "59423cbd-308b-4bc1-9f6d-ca6899e56e90")
+		)
+		(model "${KIPRJMOD}/locallib.pretty/ThroughHole-Tap_THC-0.8-1.0-2-Fusion.step"
+			(opacity 0.7500)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
-	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 		(layer "F.Cu")
 		(uuid "97440431-f921-4f3f-847c-b1d35d0c4a94")
 		(at 147.264792 52.601858)
@@ -2000,7 +2024,7 @@
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "6f41b69d-e4a4-4dbd-a622-e0d50fb4b2de")
+			(uuid "69ca39ea-6f30-4d23-9141-dc2003ade6c7")
 			(effects
 				(font
 					(size 1 1)
@@ -2011,7 +2035,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "1677d670-086d-454e-bb2e-17c055db8de0")
+			(uuid "2e20fb75-15a4-4a77-b109-bf52b726e77a")
 			(effects
 				(font
 					(size 1 1)
@@ -2019,11 +2043,11 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "53551f75-b1fa-418c-8350-4a71c3d91768")
+			(uuid "9895d17c-e8ce-4dbc-9fd0-ea9620b2f462")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2035,7 +2059,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ceaee9cd-5d69-4e12-a421-99868d87eff1")
+			(uuid "6c88a027-5e9d-4fcd-b2b4-7ea82bd4f21a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2047,7 +2071,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c0f1a7ee-ce3f-43c7-9101-c4acad6ee532")
+			(uuid "41e0f42b-10f5-4eac-991c-11d02bb8c5da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2069,7 +2093,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "7bfc7e38-13f7-4bfc-a074-fe558c8bd387")
+			(uuid "85e07a75-5cd6-4700-84cd-03e55d9890a9")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2080,12 +2104,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "aba579d2-5501-40f5-9278-5bcdbbccf51b")
+			(uuid "95e0f823-0551-42ea-b850-bf220d500045")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "7dd652c4-ad5a-46fb-bdaa-eacad17b9101")
+			(uuid "7ccce3a9-4637-43ef-b79f-70859b869b12")
 			(effects
 				(font
 					(size 1 1)
@@ -2102,7 +2126,7 @@
 			(net 1 "Top_col5")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "93dafcb2-977a-4706-b09e-18b8c77584e7")
+			(uuid "ef2a15eb-d0f1-47e6-8d83-89dbcb7afb23")
 		)
 		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_203.STEP"
 			(hide yes)
@@ -2127,8 +2151,20 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/locallib.pretty/Spacer_Circle_M2_D4mm_L3.5mm.step"
+			(opacity 0.5000)
+			(offset
+				(xyz 0 0 -1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 0 0)
+			)
+		)
 	)
-	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 		(layer "F.Cu")
 		(uuid "9ab4158b-0b94-4446-95e5-c8df2fc06cdc")
 		(at 123.452272 35.337781)
@@ -2138,7 +2174,7 @@
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "69e9117c-a800-4103-9617-e78b281d2d7b")
+			(uuid "b44fd692-c131-455c-a0b5-8420d7d3dd6b")
 			(effects
 				(font
 					(size 1 1)
@@ -2149,7 +2185,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "1d743400-d1fc-445d-9b31-703dce7d188a")
+			(uuid "a5a4e3cc-1803-4a10-a0ae-6d1afa3102bf")
 			(effects
 				(font
 					(size 1 1)
@@ -2157,11 +2193,11 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a3756c6-1f55-4b33-8498-2a2d1d0a90da")
+			(uuid "ecccb0a4-f626-4bd0-b753-645f1b44b7b1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2173,7 +2209,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc166a5b-e21a-43f7-ac6e-141dc80abedc")
+			(uuid "6b9a4aaf-1c95-40bb-b8ac-dcc9335f8a55")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2185,7 +2221,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a88e98df-d618-4832-ba85-7261e8d5b6c6")
+			(uuid "53c7bd89-a464-4f94-ba98-dfb3c5e22822")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2207,7 +2243,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "28879b94-c229-405c-8e92-866e9dd6175f")
+			(uuid "8abc4a5c-eb17-4b56-b8a5-869f5bb5c2f1")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2218,12 +2254,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "c03cee86-a2c2-4f8b-9034-dabfffacddd8")
+			(uuid "94e24cd9-37c1-4530-b365-c13815556072")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "a4fd39fe-54d3-4790-8762-f43e16201497")
+			(uuid "0c1e9b8c-fd68-4e7e-a480-464c89538d7d")
 			(effects
 				(font
 					(size 1 1)
@@ -2240,7 +2276,7 @@
 			(net 3 "Top_row0")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "66ff8b79-a4f6-481b-80d0-270470293bef")
+			(uuid "31188cc5-5508-470a-9fb5-5235c508d5d5")
 		)
 		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_203.STEP"
 			(hide yes)
@@ -2263,6 +2299,18 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/Spacer_Circle_M2_D4mm_L3.5mm.step"
+			(opacity 0.5000)
+			(offset
+				(xyz 0 0 -1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 0 0)
 			)
 		)
 	)
@@ -3224,7 +3272,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.4 -5.3)
+			(mid 1.399999 -5.299999)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)
@@ -3267,7 +3315,7 @@
 			(uuid "7a916616-d077-4a70-be6a-6ee9588c57ca")
 		)
 	)
-	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+	(footprint "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 		(layer "F.Cu")
 		(uuid "eaa87502-5d61-47dd-9462-2f3161a5d567")
 		(at 146.669479 35.337781)
@@ -3277,7 +3325,7 @@
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "6f36469a-6061-4eba-a1e2-d88e60272b0e")
+			(uuid "8c0cf9a5-ff80-4741-ba27-9a9a0da4426f")
 			(effects
 				(font
 					(size 1 1)
@@ -3288,7 +3336,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(uuid "8969283d-fc1d-4deb-91cc-e2bd753591d4")
+			(uuid "926d1278-e8e1-4970-82b6-df6f676113cf")
 			(effects
 				(font
 					(size 1 1)
@@ -3296,11 +3344,11 @@
 				)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48501854-0a01-4d4e-91d4-5679e73472a9")
+			(uuid "2f17802a-28d5-43cd-a8a6-3f34e1e9f8e1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3312,7 +3360,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ac742e8-2a95-42ed-8f58-379cd3bbb0fe")
+			(uuid "a22293d4-4047-433a-9f47-db7d5c7de420")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3324,7 +3372,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ddfa4ab-1275-4fc3-83d9-e368b1d6bcc3")
+			(uuid "f762d21c-3666-4da0-a662-d62cde132dd3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3346,7 +3394,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "b446b88f-9c1f-41d3-8c00-c2a0473592d3")
+			(uuid "101e7f34-4fcf-40b2-a5a2-625ba80a80eb")
 		)
 		(fp_circle
 			(center 0 0)
@@ -3357,12 +3405,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "91ac65d1-6190-422d-a9b2-8b80cdda42f0")
+			(uuid "cfe236d1-fe8e-416a-8219-0f41df6ee007")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "fe3d9b84-bd77-4d53-bff3-99e9ac0c061b")
+			(uuid "b82398b2-ec00-47e6-9d4e-de7fea65ed53")
 			(effects
 				(font
 					(size 1 1)
@@ -3379,7 +3427,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "input")
-			(uuid "77b23577-ef56-4aae-823a-aa2f8123ee12")
+			(uuid "06746bd4-82a2-4049-8507-f7106b4eb4a1")
 		)
 		(model "${KIPRJMOD}/locallib.pretty/CSPSL-ST3W-M2-8_203.STEP"
 			(hide yes)
@@ -3402,6 +3450,18 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/locallib.pretty/Spacer_Circle_M2_D4mm_L3.5mm.step"
+			(opacity 0.5000)
+			(offset
+				(xyz 0 0 -1.6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 0 0)
 			)
 		)
 	)
@@ -3624,7 +3684,7 @@
 		)
 		(fp_arc
 			(start 2.475824 -5.107131)
-			(mid 1.399999 -5.299999)
+			(mid 1.4 -5.3)
 			(end 0.555319 -5.993622)
 			(stroke
 				(width 0.12)

@@ -1614,7 +1614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap_L3mm"
 			(at 66.675 111.125 0)
 			(effects
 				(font
@@ -1813,7 +1813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap_L3mm"
 			(at 66.675 121.285 0)
 			(effects
 				(font
@@ -1975,7 +1975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap_L3mm"
 			(at 38.735 111.125 0)
 			(effects
 				(font
@@ -2042,7 +2042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 			(at 63.5 150.495 0)
 			(effects
 				(font
@@ -2239,7 +2239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 			(at 38.1 162.56 0)
 			(effects
 				(font
@@ -3024,7 +3024,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap"
+		(property "Footprint" "locallib:MountingHole_2.2-4.8mm_M2_Pad_minimal_for_Through-hole_tap_L3mm"
 			(at 38.735 121.285 0)
 			(effects
 				(font

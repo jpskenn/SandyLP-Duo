@@ -1245,7 +1245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 			(at 39.37 117.475 0)
 			(effects
 				(font
@@ -1311,7 +1311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 			(at 69.215 133.35 0)
 			(effects
 				(font
@@ -1445,7 +1445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 			(at 38.1 156.845 0)
 			(effects
 				(font
@@ -1576,7 +1576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 			(at 69.215 167.64 0)
 			(effects
 				(font
@@ -1933,7 +1933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead"
+		(property "Footprint" "locallib:MountingHole_2.2mm_M2_Pad_minimal_L8mm_SlimHead_L3.5mm_Spacer_Backside"
 			(at 69.215 117.475 0)
 			(effects
 				(font

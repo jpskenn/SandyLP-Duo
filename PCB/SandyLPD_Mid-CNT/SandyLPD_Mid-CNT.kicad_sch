@@ -2387,7 +2387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-x-2"
+		(property "Footprint" "locallib:MountingHole_M2_Through-hole_tap_THC-0.8-1.0-2"
 			(at 86.36 264.16 0)
 			(effects
 				(font
