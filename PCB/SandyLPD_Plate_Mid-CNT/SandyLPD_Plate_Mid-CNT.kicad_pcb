@@ -3667,18 +3667,6 @@
 		(layer "Eco1.User")
 		(uuid "6ae94828-91ac-4610-9d62-2b1879342175")
 	)
-	(gr_text "Top基板うら側のソケットを逃すように調整。"
-		(at 109.760068 32.956526 0)
-		(layer "Eco1.User")
-		(uuid "6c570c76-2520-4b27-999a-d157a5211713")
-		(effects
-			(font
-				(size 3 3)
-				(thickness 0.3)
-			)
-			(justify left bottom)
-		)
-	)
 	(zone
 		(net 0)
 		(net_name "")
