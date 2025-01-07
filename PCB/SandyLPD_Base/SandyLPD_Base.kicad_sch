@@ -30985,7 +30985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0603_1608Metric"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 575.31 21.59 0)
 			(effects
 				(font
@@ -31013,7 +31013,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C187605"
+		(property "LCSC" "C3020147"
 			(at 570.23 22.86 90)
 			(effects
 				(font
@@ -39673,7 +39673,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0603_1608Metric"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 303.53 21.59 0)
 			(effects
 				(font
@@ -39701,7 +39701,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C187605"
+		(property "LCSC" "C3020147"
 			(at 298.45 22.86 90)
 			(effects
 				(font
